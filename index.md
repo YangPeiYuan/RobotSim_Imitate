@@ -19,9 +19,10 @@
 1. 加入機械手臂 KUKA KR60-L45
 2. 建立手臂作業空間以及極限範圍
 3. 建立工作空間範圍 ( 牆面、走道 )
-4. 
+4. 建立棧板、空箱、清洗機等物件
+5. 加入夾爪並
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODMxMTE3MSwyODQ4ODU0MTQsLTEwOT
-QzNjExNzYsLTE3NTc5MzQ5OTUsNzQ1OTk4MDU1LDExMDU5NzQ4
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDk1NDMyODgsMjg0ODg1NDE0LC0xMD
+k0MzYxMTc2LC0xNzU3OTM0OTk1LDc0NTk5ODA1NSwxMTA1OTc0
+OF19
 -->
