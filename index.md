@@ -16,9 +16,11 @@
 
 ### RobotSim建置作業環境
 ---
-1. 加入機械手臂
+1. 加入機械手臂 KUKA KR60-L45
+2. 建立手臂作業空間以及極限範圍
+3. 加入工作空間範圍
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTMwNjY3NSwyODQ4ODU0MTQsLTEwOT
-QzNjExNzYsLTE3NTc5MzQ5OTUsNzQ1OTk4MDU1LDExMDU5NzQ4
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDg5MjE2MTgsMjg0ODg1NDE0LC0xMD
+k0MzYxMTc2LC0xNzU3OTM0OTk1LDc0NTk5ODA1NSwxMTA1OTc0
+OF19
 -->
