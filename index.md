@@ -7,8 +7,9 @@
 
 ### 選用設備
 - kuka KR60-L45
+	- 限制重量 : 45kg
 	- 工作範圍 : 2230cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzA1NzgyLC0xNzU3OTM0OTk1LDc0NT
-k5ODA1NSwxMTA1OTc0OF19
+eyJoaXN0b3J5IjpbLTEwOTQzNjExNzYsLTE3NTc5MzQ5OTUsNz
+Q1OTk4MDU1LDExMDU5NzQ4XX0=
 -->
