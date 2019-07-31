@@ -57,21 +57,23 @@
 4. 建立工作空間範圍
 
 - 手臂在空間中可工作的範圍
-- PS. 可用來觀察手臂運動中有無超越或撞機風險                                                            
+- PS. 可用來觀察手臂運動中有無超越或撞機風險                               
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 	![Robot_Model](./image/RobotSim_Set_Line.png)
 	- 將Cube改名為Line並設定線的長寬高、位置等等...
 	- 第二條線只需要複製並調整位置即可
 	- PS. 位置參數為物件的中心，如要調整參數須注意
-	- 
+
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
-	- 
-6. 建立棧板、空箱、清洗機等物件
-7. 加入夾爪並將手臂 Tool 改至夾爪前端中心
+
+6. 建立其他專案所需物件
+
+- 適各專案模擬所需使用其他物件
+	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk3NTEwMjQsLTYxNjEzMTYzNCwtOD
+eyJoaXN0b3J5IjpbLTE2ODAwNTY3MzQsLTYxNjEzMTYzNCwtOD
 A5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTky
 NDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC
 02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5
