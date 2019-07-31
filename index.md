@@ -3,6 +3,7 @@
 - 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 
 ---
+
 ### 選用設備
 
 - 機械手臂 : KUKA KR60-L45-3
@@ -12,6 +13,7 @@
 - 夾爪 : RGN+300-1
 
 ---
+
 ### RobotSim建置作業環境
 
 1. 加入機械手臂KUKA KR60-L45-3、夾爪RGN+300-1
@@ -32,7 +34,7 @@
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
 		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
-		- 
+
 --- 
 
 2. 建立手臂作業空間以及極限範圍示意模型
@@ -79,11 +81,11 @@
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMT
-Y4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5
-MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3MS
-wtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMDQx
-MTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2Nj
-QsMTE4NzY2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxNDcw
-MjExNF19
+eyJoaXN0b3J5IjpbLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMT
+QyODIwMDM0NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkz
+MzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NC
+wtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5
+MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMD
+IxNCwyOTQ1NDg2NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMTQ3
+NTAwMTIyXX0=
 -->
