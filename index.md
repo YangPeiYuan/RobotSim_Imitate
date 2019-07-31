@@ -15,15 +15,15 @@
 ### RobotSim建置作業環境
 
 1. 加入機械手臂 KUKA KR60-L45
-	- ![enter image description here](https://raw.githubusercontent.com/YangPeiYuan/RobotSim_Simulate/master/image/RobotSim_Import_Model.png)
+	- ![enter image description here](./image/RobotSim_Import_Model.png)
 2. 建立手臂作業空間以及極限範圍
 3. 建立工作空間範圍 ( 牆面、走道 )
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE4MzgwMjQsMTQzODI0NTcxMywxND
-c3Mzc0OTY4LC02OTczNzMwODQsLTE0NjE1MTcyMzcsMTg3NjE4
-NTkwNCw1ODQ3NzI1NTMsNTg4NDk3NzQzLC0xNjc5OTQ3MzI2LD
-MwMDY3ODg1MywyODQ4ODU0MTQsLTEwOTQzNjExNzYsLTE3NTc5
-MzQ5OTUsNzQ1OTk4MDU1LDExMDU5NzQ4XX0=
+eyJoaXN0b3J5IjpbODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0Mz
+gyNDU3MTMsMTQ3NzM3NDk2OCwtNjk3MzczMDg0LC0xNDYxNTE3
+MjM3LDE4NzYxODU5MDQsNTg0NzcyNTUzLDU4ODQ5Nzc0MywtMT
+Y3OTk0NzMyNiwzMDA2Nzg4NTMsMjg0ODg1NDE0LC0xMDk0MzYx
+MTc2LC0xNzU3OTM0OTk1LDc0NTk5ODA1NSwxMTA1OTc0OF19
 -->
