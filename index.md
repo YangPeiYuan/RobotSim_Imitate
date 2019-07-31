@@ -30,14 +30,14 @@
 			- 例 : 手臂作業範圍 2.23m，須設定圓直徑為4.46m                                          
 				![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定物件顏色
-			- 選擇 Materials 材質，移至
+			- 選擇 Materials 材質，拖移至 Element 格子
 				![Robot_Model](./image/RobotSim_Range_Color.png)
 		
 3. 建立工作空間範圍 ( 牆面、走道 )
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE4NjYzMTIsMTE4NzY2NjczLC01OT
+eyJoaXN0b3J5IjpbLTEwNzEyOTUxMjYsMTE4NzY2NjczLC01OT
 k5NDMwNTQsMTQ3NTAwMTIyLDgxNDcwMjExNCwtMTQwMTgzODAy
 NCwxNDM4MjQ1NzEzLDE0NzczNzQ5NjgsLTY5NzM3MzA4NCwtMT
 Q2MTUxNzIzNywxODc2MTg1OTA0LDU4NDc3MjU1Myw1ODg0OTc3
