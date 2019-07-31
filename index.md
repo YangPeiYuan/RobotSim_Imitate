@@ -21,9 +21,10 @@
 	- 加入機械手臂                                                                                   
 		![Robot_Model](./image/RobotSim_Import_Robot.png)
 		
-2. 建立手臂作業空間以及極限範圍
-- 建立手臂工作範圍      
+2. 建立手臂作業空間以及極限範圍示意模型
+
 - PS. 移動手臂時較方便目測極限距離
+
 	- 建立球形3D物件                                                                            
 		![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
 		
@@ -39,16 +40,16 @@
 	- 使用相同方法建立手臂內圈極限範圍
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 
-3. 建立工作空間範圍 ( 牆面、走道 )
-
-4. 建立棧板、空箱、清洗機等物件
-5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
+4. 建立工作空間範圍
+- 手臂在工作空間中，會干涉到作業的任
+5. 建立棧板、空箱、清洗機等物件
+6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwND
-ExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2
-NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsODE0Nz
-AyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3NDk2
-OCwtNjk3MzczMDg0LC0xNDYxNTE3MjM3LDE4NzYxODU5MDQsNT
-g0NzcyNTUzLDU4ODQ5Nzc0MywtMTY3OTk0NzMyNiwzMDA2Nzg4
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTcwMTA1MDI5NSwtNDYxODU2ODEyLC02OT
+E2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5MjAy
+MTQsMjk0NTQ4NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LDE0Nz
+UwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0NTcx
+MywxNDc3Mzc0OTY4LC02OTczNzMwODQsLTE0NjE1MTcyMzcsMT
+g3NjE4NTkwNCw1ODQ3NzI1NTMsNTg4NDk3NzQzLC0xNjc5OTQ3
+MzI2XX0=
 -->
