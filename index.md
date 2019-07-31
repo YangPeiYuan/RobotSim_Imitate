@@ -14,7 +14,7 @@
 ---
 ### RobotSim建置作業環境
 
-1. 加入機械手臂 KUKA KR60-L45-3、夾爪 RGN+300-1
+1. 加入機械手臂KUKA KR60-L45-3、夾爪RGN+300-1
 	- 將手臂模型匯入RobotSim                                              
 		 ![Robot_Model](./image/RobotSim_Import_Model.png)
 		 
@@ -43,11 +43,11 @@
 	- 設定物件大小                                                                                 
 		![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定範圍單位為 公尺(m)
-		- 例 : 手臂作業範圍 2.23m，須設定圓直徑為 4.46m            
+		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m            
          
 	- 設定物件顏色                                                                                   
 		![Robot_Model](./image/RobotSim_Range_Color.png)
-		- 選擇 Materials 材質，拖移至 Element 欄位
+		- 選擇Materials材質，拖移至Element欄位
 
 	- 使用相同方法建立手臂內圈極限範圍
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
@@ -57,17 +57,18 @@
 - PS. 可用來判斷手臂運動中有無超越
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.pngRobotSim_Set_Line.png)
-	- 將 Cube 改名為 Line 並設定線的長寬高、位置等等...
+	- 將Cube改名為Line並設定線的長寬高、位置等等...
+	- PS. 如果是牆面，可將Line高
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODI0OTQ1LC02MTYxMzE2MzQsLTgwOT
-MzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0
-LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNj
-kxNjUwODQ0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIw
-MjE0LDI5NDU0ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxND
-c1MDAxMjIsODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDMyMjIxNjQsLTYxNjEzMTYzNCwtOD
+A5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTky
+NDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC
+02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5
+MjAyMTQsMjk0NTQ4NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LD
+E0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0
+NTcxM119
 -->
