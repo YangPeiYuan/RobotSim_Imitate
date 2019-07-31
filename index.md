@@ -1,4 +1,4 @@
-## SHIHO-RobotSim模擬
+## RobotSim
 
 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 ---
@@ -22,7 +22,7 @@
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNjc4ODUzLDI4NDg4NTQxNCwtMTA5ND
-M2MTE3NiwtMTc1NzkzNDk5NSw3NDU5OTgwNTUsMTEwNTk3NDhd
-fQ==
+eyJoaXN0b3J5IjpbLTE2Nzk5NDczMjYsMzAwNjc4ODUzLDI4ND
+g4NTQxNCwtMTA5NDM2MTE3NiwtMTc1NzkzNDk5NSw3NDU5OTgw
+NTUsMTEwNTk3NDhdfQ==
 -->
