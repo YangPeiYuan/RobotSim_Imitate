@@ -54,6 +54,8 @@
 	- 使用相同方法建立手臂內圈極限範圍
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 
+---
+
 4. 建立工作空間範圍
 
 - 手臂在空間中可工作的範圍
@@ -68,16 +70,19 @@
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
 
+--- 
+
 6. 建立其他專案所需物件
 
 - 適各專案模擬所需使用其他物件
-	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
+	![Robot_Model](./image/RobotSim_Complete_Environment.png)
+	- 本專案經模擬後，手臂擺放位置更改成Y轉150
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwNTY3MzQsLTYxNjEzMTYzNCwtOD
-A5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTky
-NDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC
-02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5
-MjAyMTQsMjk0NTQ4NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LD
-E0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0
-NTcxM119
+eyJoaXN0b3J5IjpbLTE0MjgyMDAzNDUsLTE2ODAwNTY3MzQsLT
+YxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2
+MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NS
+wtNDYxODU2ODEyLC02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1
+NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4NjY0LDExODc2NjY3My
+wtNTk5OTQzMDU0LDE0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4
+MzgwMjRdfQ==
 -->
