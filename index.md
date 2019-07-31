@@ -53,11 +53,11 @@
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 
 4. 建立工作空間範圍
-- 手臂在工作空間中，會干涉到作業的任
+- 手臂在工作空間中手臂ㄍㄨ
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMzEwMDA1LC04MDkzMzE4NjEsLTI3Nz
+eyJoaXN0b3J5IjpbMjgxODQwNzYxLC04MDkzMzE4NjEsLTI3Nz
 M5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3
 MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMD
 QxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2
