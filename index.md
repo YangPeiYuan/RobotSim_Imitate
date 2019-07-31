@@ -28,21 +28,21 @@
 		- 設定物件大小
 			- 設定範圍單位為 公尺(m)
 			- 例 : 手臂作業範圍 2.23m，須設定圓直徑為4.46m                                          
-				![Robot_Model](./image/RobotSim_Range_Size.png)
+- ![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定物件顏色
 			- 選擇 Materials 材質，拖移至 Element 格子
-				![Robot_Model](./image/RobotSim_Range_Color.png)
+- ![Robot_Model](./image/RobotSim_Range_Color.png)
 	- 使用相同方法建立手臂內圈極限範圍
-		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
+- ![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 3. 建立工作空間範圍 ( 牆面、走道 )
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDIzOTM0NywyOTQ1NDg2NjQsMTE4Nz
-Y2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxNDcwMjExNCwt
-MTQwMTgzODAyNCwxNDM4MjQ1NzEzLDE0NzczNzQ5NjgsLTY5Nz
-M3MzA4NCwtMTQ2MTUxNzIzNywxODc2MTg1OTA0LDU4NDc3MjU1
-Myw1ODg0OTc3NDMsLTE2Nzk5NDczMjYsMzAwNjc4ODUzLDI4ND
-g4NTQxNCwtMTA5NDM2MTE3NiwtMTc1NzkzNDk5NSw3NDU5OTgw
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDY5MjAyMTQsMjk0NTQ4NjY0LDExOD
+c2NjY3MywtNTk5OTQzMDU0LDE0NzUwMDEyMiw4MTQ3MDIxMTQs
+LTE0MDE4MzgwMjQsMTQzODI0NTcxMywxNDc3Mzc0OTY4LC02OT
+czNzMwODQsLTE0NjE1MTcyMzcsMTg3NjE4NTkwNCw1ODQ3NzI1
+NTMsNTg4NDk3NzQzLC0xNjc5OTQ3MzI2LDMwMDY3ODg1MywyOD
+Q4ODU0MTQsLTEwOTQzNjExNzYsLTE3NTc5MzQ5OTUsNzQ1OTk4
+MDU1XX0=
 -->
