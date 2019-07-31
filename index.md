@@ -21,9 +21,9 @@
 	- 加入機械手臂                                                                                   
 		![Robot_Model](./image/RobotSim_Import_Robot.png)
 
-	- 加入夾爪模型
+	- 加入夾爪模型                                                                                    
 		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
-		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
+		![Robot_Model](./image/RobotSim_Import_RNG300.png)
 		
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -49,11 +49,11 @@
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTEzNjc3NywtMTI1NDQyMTQ3MSwtNz
-AxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMDQxMTY1
-MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2NjQsMT
-E4NzY2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxNDcwMjEx
-NCwtMTQwMTgzODAyNCwxNDM4MjQ1NzEzLDE0NzczNzQ5NjgsLT
-Y5NzM3MzA4NCwtMTQ2MTUxNzIzNywxODc2MTg1OTA0LDU4NDc3
-MjU1M119
+eyJoaXN0b3J5IjpbODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MD
+EwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNjUw
+ODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwxMT
+g3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsODE0NzAyMTE0
+LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3NDk2OCwtNj
+k3MzczMDg0LC0xNDYxNTE3MjM3LDE4NzYxODU5MDQsNTg0Nzcy
+NTUzXX0=
 -->
