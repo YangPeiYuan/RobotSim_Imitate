@@ -17,13 +17,13 @@
 1. 加入機械手臂 KUKA KR60-L45
 	- 
 2. 建立手臂作業空間以及極限範圍
-	-	![enter image description here](SHIHO-RobotSim/png/RobotSim_Add_Limit_Sphere.png)
+	-	![enter image description here](Ro)
 4. 建立工作空間範圍 ( 牆面、走道 )
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE1MTcyMzcsMTg3NjE4NTkwNCw1OD
-Q3NzI1NTMsNTg4NDk3NzQzLC0xNjc5OTQ3MzI2LDMwMDY3ODg1
-MywyODQ4ODU0MTQsLTEwOTQzNjExNzYsLTE3NTc5MzQ5OTUsNz
-Q1OTk4MDU1LDExMDU5NzQ4XX0=
+eyJoaXN0b3J5IjpbMTIxMTU3NTEyNCwtMTQ2MTUxNzIzNywxOD
+c2MTg1OTA0LDU4NDc3MjU1Myw1ODg0OTc3NDMsLTE2Nzk5NDcz
+MjYsMzAwNjc4ODUzLDI4NDg4NTQxNCwtMTA5NDM2MTE3NiwtMT
+c1NzkzNDk5NSw3NDU5OTgwNTUsMTEwNTk3NDhdfQ==
 -->
