@@ -1,7 +1,7 @@
 ## RobotSim Imitate
 
+- 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 
-### [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 ---
 ### 選用設備
 
@@ -22,8 +22,8 @@
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjg0NzE5OCwxODc2MTg1OTA0LDU4ND
-c3MjU1Myw1ODg0OTc3NDMsLTE2Nzk5NDczMjYsMzAwNjc4ODUz
-LDI4NDg4NTQxNCwtMTA5NDM2MTE3NiwtMTc1NzkzNDk5NSw3ND
-U5OTgwNTUsMTEwNTk3NDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NjE1MTcyMzcsMTg3NjE4NTkwNCw1OD
+Q3NzI1NTMsNTg4NDk3NzQzLC0xNjc5OTQ3MzI2LDMwMDY3ODg1
+MywyODQ4ODU0MTQsLTEwOTQzNjExNzYsLTE3NTc5MzQ5OTUsNz
+Q1OTk4MDU1LDExMDU5NzQ4XX0=
 -->
