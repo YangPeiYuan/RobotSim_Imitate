@@ -25,8 +25,9 @@
 		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
 		![Robot_Model](./image/RobotSim_Import_RNG300.png)
 		![Robot_Model](./image/RobotSim_Set_gripper.png)
-			- 將夾爪 
+			- 將夾爪 RGN300 拖移到場景上，並且把位置設為圓點
 		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
+			- 將手臂轉向180度，法蘭面對準
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
 		
 2. 建立手臂作業空間以及極限範圍示意模型
@@ -53,11 +54,11 @@
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzI4NTgwMCwtODA5MzMxODYxLC0yNz
-czOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0
-NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4NDQsMj
-A0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4
-NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LDE0NzUwMDEyMiw4MT
-Q3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0NTcxMywxNDc3Mzc0
-OTY4XX0=
+eyJoaXN0b3J5IjpbNjIzNDM4NTgyLC04MDkzMzE4NjEsLTI3Nz
+M5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3
+MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMD
+QxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2
+NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxND
+cwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1NzEzLDE0NzczNzQ5
+NjhdfQ==
 -->
