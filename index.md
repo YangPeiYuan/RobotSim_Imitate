@@ -18,7 +18,7 @@
 	- 將手臂模型匯入RobotSim
 		 ![Robot_Model](./image/RobotSim_Import_Model.png)
 		 
-	- 加入機械手臂
+	- 加入機械手臂 KR60-L45
 		![Robot_Model](./image/RobotSim_Import_Robot.png)
 2. 建立手臂作業空間以及極限範圍
 	- 建立手臂工作範圍      PS. 移動手臂時較方便目測極限距離
@@ -27,10 +27,10 @@
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxMTY3NzcsLTU5OTk0MzA1NCwxND
-c1MDAxMjIsODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3
-MTMsMTQ3NzM3NDk2OCwtNjk3MzczMDg0LC0xNDYxNTE3MjM3LD
-E4NzYxODU5MDQsNTg0NzcyNTUzLDU4ODQ5Nzc0MywtMTY3OTk0
-NzMyNiwzMDA2Nzg4NTMsMjg0ODg1NDE0LC0xMDk0MzYxMTc2LC
-0xNzU3OTM0OTk1LDc0NTk5ODA1NSwxMTA1OTc0OF19
+eyJoaXN0b3J5IjpbNjI4NzI3Nzc4LC01OTk5NDMwNTQsMTQ3NT
+AwMTIyLDgxNDcwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1NzEz
+LDE0NzczNzQ5NjgsLTY5NzM3MzA4NCwtMTQ2MTUxNzIzNywxOD
+c2MTg1OTA0LDU4NDc3MjU1Myw1ODg0OTc3NDMsLTE2Nzk5NDcz
+MjYsMzAwNjc4ODUzLDI4NDg4NTQxNCwtMTA5NDM2MTE3NiwtMT
+c1NzkzNDk5NSw3NDU5OTgwNTUsMTEwNTk3NDhdfQ==
 -->
