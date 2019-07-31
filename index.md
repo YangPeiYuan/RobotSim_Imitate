@@ -58,17 +58,17 @@
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.pngRobotSim_Set_Line.png)
 	- 將Cube改名為Line並設定線的長寬高、位置等等...
-	- PS. 如果是牆面，可將Line高
+	- PS. 位置參數為物件的中心，如要調整參數須注意
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMyMjIxNjQsLTYxNjEzMTYzNCwtOD
-A5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTky
-NDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC
-02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5
-MjAyMTQsMjk0NTQ4NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LD
-E0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0
-NTcxM119
+eyJoaXN0b3J5IjpbLTMwMTgwMjI0NCwtNjE2MTMxNjM0LC04MD
+kzMzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0
+NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLT
+Y5MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0Njky
+MDIxNCwyOTQ1NDg2NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMT
+Q3NTAwMTIyLDgxNDcwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1
+NzEzXX0=
 -->
