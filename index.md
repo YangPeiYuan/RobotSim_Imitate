@@ -33,16 +33,16 @@
 			- 選擇 Materials 材質，拖移至 Element 格子
 				![Robot_Model](./image/RobotSim_Range_Color.png)
 	- 使用相同方法建立手臂內圈極限範圍
-		
+		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 3. 建立工作空間範圍 ( 牆面、走道 )
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM4NjQ3NywtMTM0NjkyMDIxNCwyOT
-Q1NDg2NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIy
-LDgxNDcwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1NzEzLDE0Nz
-czNzQ5NjgsLTY5NzM3MzA4NCwtMTQ2MTUxNzIzNywxODc2MTg1
-OTA0LDU4NDc3MjU1Myw1ODg0OTc3NDMsLTE2Nzk5NDczMjYsMz
-AwNjc4ODUzLDI4NDg4NTQxNCwtMTA5NDM2MTE3NiwtMTc1Nzkz
-NDk5NV19
+eyJoaXN0b3J5IjpbMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5ND
+U0ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIs
+ODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3Nz
+M3NDk2OCwtNjk3MzczMDg0LC0xNDYxNTE3MjM3LDE4NzYxODU5
+MDQsNTg0NzcyNTUzLDU4ODQ5Nzc0MywtMTY3OTk0NzMyNiwzMD
+A2Nzg4NTMsMjg0ODg1NDE0LC0xMDk0MzYxMTc2LC0xNzU3OTM0
+OTk1XX0=
 -->
