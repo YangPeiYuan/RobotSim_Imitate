@@ -2,9 +2,6 @@
 
 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 ---
-### 專案內容
-
----
 ### 選用設備
 
 - 機械手臂 : KUKA KR60-L45
@@ -17,12 +14,13 @@
 ### RobotSim建置作業環境
 
 1. 加入機械手臂 KUKA KR60-L45
-2. 建立手臂作業空間以及極限範圍
-3. 建立工作空間範圍 ( 牆面、走道 )
-4. 建立棧板、空箱、清洗機等物件
-5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
+	- 
+3. 建立手臂作業空間以及極限範圍
+4. 建立工作空間範圍 ( 牆面、走道 )
+5. 建立棧板、空箱、清洗機等物件
+6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk5NDczMjYsMzAwNjc4ODUzLDI4ND
-g4NTQxNCwtMTA5NDM2MTE3NiwtMTc1NzkzNDk5NSw3NDU5OTgw
-NTUsMTEwNTk3NDhdfQ==
+eyJoaXN0b3J5IjpbNTg4NDk3NzQzLC0xNjc5OTQ3MzI2LDMwMD
+Y3ODg1MywyODQ4ODU0MTQsLTEwOTQzNjExNzYsLTE3NTc5MzQ5
+OTUsNzQ1OTk4MDU1LDExMDU5NzQ4XX0=
 -->
