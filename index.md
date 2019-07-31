@@ -57,15 +57,17 @@
 - PS. 可用來判斷手臂運動中有無超越
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.pngRobotSim_Set_Line.png)
-	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
+	- 將 Cube 改名為 Line 並設定線的長寬高、位置等等...
+	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
+	- 
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NjExNTUwLC04MDkzMzE4NjEsLTI3Nz
-M5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3
-MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMD
-QxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2
-NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxND
-cwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1NzEzLDE0NzczNzQ5
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDgwMTk3NzEsLTgwOTMzMTg2MSwtMj
+c3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIx
+NDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LD
+IwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0
+ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsOD
+E0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3
+NDk2OF19
 -->
