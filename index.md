@@ -57,24 +57,26 @@
 4. 建立工作空間範圍
 
 - 手臂在空間中可工作的範圍
-- PS. 可用來觀察手臂運動中有無超越或撞機風險                                                            
+- PS. 可用來觀察手臂運動中有無超越或撞機風險                               
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 	![Robot_Model](./image/RobotSim_Set_Line.png)
 	- 將Cube改名為Line並設定線的長寬高、位置等等...
 	- 第二條線只需要複製並調整位置即可
 	- PS. 位置參數為物件的中心，如要調整參數須注意
-	- 
+
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
-6. 建立棧板、空箱、清洗機等物件
-7. 加入夾爪並將手臂 Tool 改至夾爪前端中心
+
+6. 建立其他專案所需物件
+- 
+	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTM2NDQ2MSwtNjE2MTMxNjM0LC04MD
-kzMzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0
-NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLT
-Y5MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0Njky
-MDIxNCwyOTQ1NDg2NjQsMTE4NzY2NjczLC01OTk5NDMwNTQsMT
-Q3NTAwMTIyLDgxNDcwMjExNCwtMTQwMTgzODAyNCwxNDM4MjQ1
-NzEzXX0=
+eyJoaXN0b3J5IjpbMzI2MzU1NTY4LC02MTYxMzE2MzQsLTgwOT
+MzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0
+LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNj
+kxNjUwODQ0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIw
+MjE0LDI5NDU0ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxND
+c1MDAxMjIsODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3
+MTNdfQ==
 -->
