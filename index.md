@@ -35,8 +35,6 @@
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
 		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
 
---- 
-
 2. 建立手臂作業空間以及極限範圍示意模型
 
 - PS. 移動手臂時較方便目測極限距離                                                                    
@@ -56,9 +54,8 @@
 	- 使用相同方法建立手臂內圈極限範圍
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
 
----
 
-4. 建立工作空間範圍
+3. 建立工作空間範圍
 
 - 手臂在空間中可工作的範圍
 - PS. 可用來觀察手臂運動中有無超越或撞機風險                               
@@ -73,14 +70,17 @@
 	- 設定完成後場景
 
 
-6. 建立其他專案所需物件
+4. 建立其他專案所需物件
 
 - 適各專案模擬所需使用其他物件
 
+
+
+
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
-	- 本專案經模擬後，手臂擺放位置更改成Y轉150
+	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDczNzQ5OSwtMTcxMjE0ODg3NCwxND
+eyJoaXN0b3J5IjpbLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxND
 cwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYx
 MzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5Nj
 EsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2
