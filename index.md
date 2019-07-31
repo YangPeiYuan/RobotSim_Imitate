@@ -26,7 +26,7 @@
 		- 建立圓形3D物件                                                                            
 			![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
 		- 設定物件大小
-			- 
+			- 設定範圍單位為 ( 公尺 )
 			![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定物件顏色
 			![Robot_Model](./image/RobotSim_Range_Color.png)
@@ -35,11 +35,11 @@
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTg5NjMyLDExODc2NjY3MywtNTk5OT
-QzMDU0LDE0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQs
-MTQzODI0NTcxMywxNDc3Mzc0OTY4LC02OTczNzMwODQsLTE0Nj
-E1MTcyMzcsMTg3NjE4NTkwNCw1ODQ3NzI1NTMsNTg4NDk3NzQz
-LC0xNjc5OTQ3MzI2LDMwMDY3ODg1MywyODQ4ODU0MTQsLTEwOT
-QzNjExNzYsLTE3NTc5MzQ5OTUsNzQ1OTk4MDU1LDExMDU5NzQ4
-XX0=
+eyJoaXN0b3J5IjpbLTQ5MTY5MjAxMCwxMTg3NjY2NzMsLTU5OT
+k0MzA1NCwxNDc1MDAxMjIsODE0NzAyMTE0LC0xNDAxODM4MDI0
+LDE0MzgyNDU3MTMsMTQ3NzM3NDk2OCwtNjk3MzczMDg0LC0xND
+YxNTE3MjM3LDE4NzYxODU5MDQsNTg0NzcyNTUzLDU4ODQ5Nzc0
+MywtMTY3OTk0NzMyNiwzMDA2Nzg4NTMsMjg0ODg1NDE0LC0xMD
+k0MzYxMTc2LC0xNzU3OTM0OTk1LDc0NTk5ODA1NSwxMTA1OTc0
+OF19
 -->
