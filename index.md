@@ -5,7 +5,7 @@
 ---
 ### 選用設備
 
-- 機械手臂 : KUKA KR60-L45
+- 機械手臂 : KUKA KR60-L45-3
 	- 限制重量 : 45kg
 	- 工作範圍 : 2230cm
 	
@@ -14,7 +14,7 @@
 ---
 ### RobotSim建置作業環境
 
-1. 加入機械手臂 KUKA KR60-L45-、夾爪 RGN+300-1
+1. 加入機械手臂 KUKA KR60-L45-3、夾爪 RGN+300-1
 	- 將手臂模型匯入RobotSim                                              
 		 ![Robot_Model](./image/RobotSim_Import_Model.png)
 		 
@@ -52,7 +52,7 @@
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDIyNDQ1NCwtMjc3MzkzMjI1LDIwOT
+eyJoaXN0b3J5IjpbLTgwOTMzMTg2MSwtMjc3MzkzMjI1LDIwOT
 cwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEwNTAy
 OTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNjUwODAsMj
 k0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwxMTg3NjY2
