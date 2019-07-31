@@ -24,9 +24,12 @@
 	- 加入夾爪模型                                                                                    
 		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
 		![Robot_Model](./image/RobotSim_Import_RNG300.png)
-		![Robot_Model](./image/RobotSim_Import_RNG300.png)
-		![Robot_Model](./image/RobotSim_Import_RNG300.png)
-		![Robot_Model](./image/RobotSim_Import_RNG300.png)
+		![Robot_Model](./image/RobotSim_Set_gripper.png)
+			- 將夾爪 RGN300 拖移到場景上，並且把位置設為圓點
+		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
+			- 將手臂轉向180度，法蘭面對準夾爪
+		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
+			- 將 RNG300 物件拉至 Tool1 裡，並且將 Fan
 		
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -52,11 +55,11 @@
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTMzMTg2MSwtMjc3MzkzMjI1LDIwOT
-cwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEwNTAy
-OTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNjUwODAsMj
-k0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwxMTg3NjY2
-NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsODE0NzAyMTE0LC0xND
-AxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3NDk2OCwtNjk3Mzcz
-MDg0XX0=
+eyJoaXN0b3J5IjpbLTk3OTg1NTEwMywtODA5MzMxODYxLC0yNz
+czOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0
+NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4NDQsMj
+A0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4
+NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LDE0NzUwMDEyMiw4MT
+Q3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0NTcxMywxNDc3Mzc0
+OTY4XX0=
 -->
