@@ -31,7 +31,7 @@
 		- 將手臂轉向180度，法蘭面對準夾爪
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
-		- 將 RNG300 物件拉至 Tool1 裡，並且將 Flange、RGN300 位置 Y 各 -0.35 ，這樣即能將手臂Tool改至夾爪前端中心
+		- 將 RNG300 物件拉至 Tool1 裡，並且將 Flange、RGN300 位置 Y 各 -0.35m ，這樣即能將手臂Tool改至夾爪前端中心
 		
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -59,15 +59,15 @@
 	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.pngRobotSim_Set_Line.png)
 	- 將 Cube 改名為 Line 並設定線的長寬高、位置等等...
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
-	- 
+	- 設定
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgwMTk3NzEsLTgwOTMzMTg2MSwtMj
-c3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIx
-NDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LD
-IwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0
-ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsOD
-E0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3
-NDk2OF19
+eyJoaXN0b3J5IjpbMTc2NDI0OTk3NywtODA5MzMxODYxLC0yNz
+czOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0
+NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4NDQsMj
+A0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4
+NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LDE0NzUwMDEyMiw4MT
+Q3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0NTcxMywxNDc3Mzc0
+OTY4XX0=
 -->
