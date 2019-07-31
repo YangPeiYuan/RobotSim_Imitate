@@ -57,7 +57,7 @@
 4. 建立工作空間範圍
 
 - 手臂在空間中可工作的範圍
-- PS. 可用來觀察手臂運動中有無超越                                                            
+- PS. 可用來觀察手臂運動中有無超越或撞機風險                                                            
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 	![Robot_Model](./image/RobotSim_Set_Line.png)
@@ -71,11 +71,11 @@
 6. 建立棧板、空箱、清洗機等物件
 7. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NjI5MzYxLC02MTYxMzE2MzQsLTgwOT
-MzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0
-LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNj
-kxNjUwODQ0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIw
-MjE0LDI5NDU0ODY2NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxND
-c1MDAxMjIsODE0NzAyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDk3NTEwMjQsLTYxNjEzMTYzNCwtOD
+A5MzMxODYxLC0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTky
+NDQsLTEyNTQ0MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC
+02OTE2NTA4NDQsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5
+MjAyMTQsMjk0NTQ4NjY0LDExODc2NjY3MywtNTk5OTQzMDU0LD
+E0NzUwMDEyMiw4MTQ3MDIxMTQsLTE0MDE4MzgwMjQsMTQzODI0
+NTcxM119
 -->
