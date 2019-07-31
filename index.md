@@ -24,7 +24,7 @@
 2. 建立手臂作業空間以及極限範圍
 - 建立手臂工作範圍      
 - PS. 移動手臂時較方便目測極限距離
-	- 建立圓形3D物件                                                                            
+	- 建立球形3D物件                                                                            
 		![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
 		
 	- 設定物件大小                                                                                 
@@ -44,11 +44,11 @@
 4. 建立棧板、空箱、清洗機等物件
 5. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTY1MDg0NCwyMDQxMTY1MDgwLDI5ND
-U0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1NDg2NjQsMTE4NzY2Njcz
-LC01OTk5NDMwNTQsMTQ3NTAwMTIyLDgxNDcwMjExNCwtMTQwMT
-gzODAyNCwxNDM4MjQ1NzEzLDE0NzczNzQ5NjgsLTY5NzM3MzA4
-NCwtMTQ2MTUxNzIzNywxODc2MTg1OTA0LDU4NDc3MjU1Myw1OD
-g0OTc3NDMsLTE2Nzk5NDczMjYsMzAwNjc4ODUzLDI4NDg4NTQx
-NF19
+eyJoaXN0b3J5IjpbLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwND
+ExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2
+NCwxMTg3NjY2NzMsLTU5OTk0MzA1NCwxNDc1MDAxMjIsODE0Nz
+AyMTE0LC0xNDAxODM4MDI0LDE0MzgyNDU3MTMsMTQ3NzM3NDk2
+OCwtNjk3MzczMDg0LC0xNDYxNTE3MjM3LDE4NzYxODU5MDQsNT
+g0NzcyNTUzLDU4ODQ5Nzc0MywtMTY3OTk0NzMyNiwzMDA2Nzg4
+NTNdfQ==
 -->
