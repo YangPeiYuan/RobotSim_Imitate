@@ -58,13 +58,14 @@
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	![Robot_Model](./image/RobotSim_Add_Limit_Sphere.pngRobotSim_Set_Line.png)
 	- 將Cube改名為Line並設定線的長寬高、位置等等...
+	- 第二條線只需要複製並調整位置即可
 	- PS. 位置參數為物件的中心，如要調整參數須注意
 	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
 5. 建立棧板、空箱、清洗機等物件
 6. 加入夾爪並將手臂 Tool 改至夾爪前端中心
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTgwMjI0NCwtNjE2MTMxNjM0LC04MD
+eyJoaXN0b3J5IjpbLTk4MTcyMTQyNywtNjE2MTMxNjM0LC04MD
 kzMzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0
 NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLT
 Y5MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0Njky
