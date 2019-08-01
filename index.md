@@ -29,7 +29,7 @@
 		![Robot_Model](./image/RobotSim_Import_RNG300.png)
 		![Robot_Model](./image/RobotSim_Set_gripper.png)
 		- 左方SampleScene列表找到RNG300
-		- 將夾爪RGN300拖移到場景上，並且把位置設為原點 (X 0, Y 0, Z 0)
+		- 將夾爪RGN300拖移到場景上，並且把位置 (Position) 設為原點 (X 0, Y 0, Z 0)
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
 		- 將手臂Y轉向180度，法蘭面對準夾爪
@@ -81,7 +81,7 @@
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIwMDg0ODgsMzQ3MDczMTcxLC0xOT
+eyJoaXN0b3J5IjpbLTE5NDcyMTI2MjQsMzQ3MDczMTcxLC0xOT
 A3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4
 NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNC
 wtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3
