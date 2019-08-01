@@ -61,14 +61,14 @@
 	- 手臂在空間中可工作的範圍
 	- PS. 可用來觀察手臂運動中有無超越或撞機風險        
     
-	![Robot_Model](./image/RobotSim_Add_Line.png)
+		![Robot_Model](./image/RobotSim_Add_Line.png)
 	
-	![Robot_Model](./image/RobotSim_Set_Line.png)
+		![Robot_Model](./image/RobotSim_Set_Line.png)
 	- 將Cube改名為Line並設定線的長寬高、位置等等...
 	- 第二條線只需要複製並調整位置即可
 	- PS. 位置參數為物件的中心，如要調整參數須注意
 
-	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
+		![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 	- 設定完成後場景
 
 
@@ -77,14 +77,14 @@
 	- 適各專案模擬所需使用其他物件  
 	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)
 
-	![Robot_Model](./image/RobotSim_Complete_Environment.png)
+		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU3ODQyNTMsLTE5MDc2NTIwODksOD
-U0Mjk4NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0
-OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2Mz
-QsLTgwOTMzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODEx
-Mjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1Nj
-gxMiwtNjkxNjUwODQ0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0x
-MzQ2OTIwMjE0XX0=
+eyJoaXN0b3J5IjpbMzQ3MDczMTcxLC0xOTA3NjUyMDg5LDg1ND
+I5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1
+MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC
+04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5
+OTI0NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MT
+IsLTY5MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0
+NjkyMDIxNF19
 -->
