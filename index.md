@@ -28,6 +28,7 @@
 		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
 		![Robot_Model](./image/RobotSim_Import_RNG300.png)
 		![Robot_Model](./image/RobotSim_Set_gripper.png)
+		- 左方SampleScene列表找到RNG300
 		- 將夾爪RGN300拖移到場景上，並且把位置設為原點 (X 0, Y 0, Z 0)
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
@@ -80,11 +81,11 @@
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MDczMTcxLC0xOTA3NjUyMDg5LDg1ND
-I5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1
-MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC
-04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5
-OTI0NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MT
-IsLTY5MTY1MDg0NCwyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0
-NjkyMDIxNF19
+eyJoaXN0b3J5IjpbLTIwOTIwMDg0ODgsMzQ3MDczMTcxLC0xOT
+A3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4
+NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNC
+wtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3
+MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMj
+k1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMDQxMTY1MDgwLDI5
+NDU0ODY2NF19
 -->
