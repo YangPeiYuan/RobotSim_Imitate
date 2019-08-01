@@ -90,7 +90,7 @@
 		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
 
 --- 
-### 紀錄各物件點位
+### 紀錄手臂移至各物件點位
 
 - 手臂移動紀錄點位
 
@@ -112,13 +112,13 @@
 	- 將點位P1至P1(4)拖移至空物件裡面
 
 	![Robot_Model](./image/RobotSim_All_Blue_Box.png)
-	- 其他排只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
+	- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NDcyODg0LDYzNjU5MzEwMCwtMTg3ND
-AzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0
-MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLD
-M0NzA3MzE3MSwtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5
-ODUzLC0xNzEyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzND
-UsLTE2ODAwNTY3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0y
-NzczOTMyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xOD
+c0MDMyMTAwLC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1
+NTQxLC0xNTY1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4Mj
+AsMzQ3MDczMTcxLC0xOTA3NjUyMDg5LDg1NDI5ODQxLC0yOTQy
+Mzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMD
+M0NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEs
+LTI3NzM5MzIyNV19
 -->
