@@ -110,35 +110,41 @@
 	- 利用空物件進行分類幫助分類不同點位
 
 		![Robot_Model](./image/RobotSim_Create_Empty.png)
-			- 創立一個空的物件GameObject
+		- 創立一個空的物件GameObject
 		
 		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
-			- 將物件名稱更改為所分類名稱Blue_Box
-			- 將點位P1至P1(4)拖移至空物件裡面
+		- 將物件名稱更改為所分類名稱Blue_Box
+		- 將點位P1至P1(4)拖移至空物件裡面
 
 		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
-			- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
+		- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
 
 2. 將點位連接成動作
 
 	- 使用Program編輯流程
 
-	![Robot_Model](./image/RobotSim_New_Motion.png)
+		![Robot_Model](./image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
 
-	![Robot_Model](./image/RobotSim_Command_Gripper.png)
-		-  使須夾取物件能夠鎖定以及解鎖
+		![Robot_Model](./image/RobotSim_Command_Gripper.png)
+		-  使須夾取物件能夠被夾爪所夾取
 
-	![Robot_Model](./image/RobotSim_Gripper_Lock.png)
+		![Robot_Model](./image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	
+		![Robot_Model](./image/RobotSim_Gripper_Lock_Box.png)
+		- 將GripperLock(True)移動至預夾取物件點位下方即可夾取
+		- 將GriperLock(False)移動至預放置物件點位下方即可放置
+
+---
+### 完整模擬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMz
-Y2NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwt
-MTg3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNz
-I5NTU0MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0
-ODIwLDM0NzA3MzE3MSwtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMj
-k0MjM5ODUzLC0xNzEyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0Mjgy
-MDAzNDVdfQ==
+eyJoaXN0b3J5IjpbMTg0MTQ4NjY3MCwtMzY4MjIxNDQ1LC0xMD
+A2MDE0MjA2LDM0NTI0MzA5OCwxNTMzODAxNjg0LC00MTM2NjUy
+MTYsMTMxMzIwMSwtMTkzODczODU1OSw2MzY1OTMxMDAsLTE4Nz
+QwMzIxMDAsLTI0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MTcyOTU1
+NDEsLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMC
+wzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIz
+OTg1M119
 -->
