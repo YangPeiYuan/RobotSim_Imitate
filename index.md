@@ -76,16 +76,18 @@
 4. 建立其他專案所需物件
 
 	- 適各專案模擬所需使用其他物件  
-	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)
+	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
+
+
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk0OTQ4MjAsMzQ3MDczMTcxLC0xOT
-A3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4
-NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNC
-wtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3
-MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQyMTQ3MSwtNzAxMDUwMj
-k1LC00NjE4NTY4MTIsLTY5MTY1MDg0NCwyMDQxMTY1MDgwLDI5
-NDU0ODY2NF19
+eyJoaXN0b3J5IjpbMTQzMTkwMzc3OCwtMTgzOTQ5NDgyMCwzND
+cwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1
+MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC
+0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3
+MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxND
+cxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIw
+NDExNjUwODBdfQ==
 -->
