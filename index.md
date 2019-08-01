@@ -131,9 +131,10 @@
 
 	![Robot_Model](./image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
+		- V
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDI1NTYzNywxNTMzODAxNjg0LC00MT
+eyJoaXN0b3J5IjpbMjEzNDY1OTE0NiwxNTMzODAxNjg0LC00MT
 M2NjUyMTYsMTMxMzIwMSwtMTkzODczODU1OSw2MzY1OTMxMDAs
 LTE4NzQwMzIxMDAsLTI0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MT
 cyOTU1NDEsLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5
