@@ -78,19 +78,19 @@
 	- 適各專案模擬所需使用其他物件  
 	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
 
- - 利用位置 (Position) 參數放置物體實際位置
 
-
-- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
+	![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
+	 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
+	- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzND
-cwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1
-MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC
-0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3
-MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxND
-cxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIw
-NDExNjUwODBdfQ==
+eyJoaXN0b3J5IjpbLTIwMDc0ODYyNzgsMjAyNDI5MzQ3MCwtMT
+gzOTQ5NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4
+NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC
+0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgw
+OTMzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5Mj
+Q0LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwt
+NjkxNjUwODQ0XX0=
 -->
