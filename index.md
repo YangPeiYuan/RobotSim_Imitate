@@ -90,7 +90,7 @@
 		- 選擇物件，右上角取消勾選即能將物件取消不使用，但還是能保有物件設定，需要使用時再勾選即可
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
-		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
+		- 本專案經模擬後，手臂擺放位置更改成旋轉(Rotation)Y 150，此角度下手臂的工作路徑相對較順暢
 
 --- 
 ### 點位記錄及模擬實作
@@ -141,11 +141,11 @@
 
 ### 完整模擬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDM3MDQ4NiwxODQxNDg2NjcwLC0zNj
-gyMjE0NDUsLTEwMDYwMTQyMDYsMzQ1MjQzMDk4LDE1MzM4MDE2
-ODQsLTQxMzY2NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNj
-U5MzEwMCwtMTg3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5
-NDUsLTcxNzI5NTU0MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcwLC
-0xODM5NDk0ODIwLDM0NzA3MzE3MSwtMTkwNzY1MjA4OSw4NTQy
-OTg0MV19
+eyJoaXN0b3J5IjpbLTE0MjAwMzM4NDIsMjE0NDM3MDQ4NiwxOD
+QxNDg2NjcwLC0zNjgyMjE0NDUsLTEwMDYwMTQyMDYsMzQ1MjQz
+MDk4LDE1MzM4MDE2ODQsLTQxMzY2NTIxNiwxMzEzMjAxLC0xOT
+M4NzM4NTU5LDYzNjU5MzEwMCwtMTg3NDAzMjEwMCwtMjQ1ODk5
+MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0MjI3Ny
+wyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MSwtMTkw
+NzY1MjA4OV19
 -->
