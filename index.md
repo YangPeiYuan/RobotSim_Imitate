@@ -97,10 +97,10 @@
 	- 將手臂移動至物件夾取位置
 	- 利用 +Point 功能紀錄點位
 
-![Robot_Model](./image/RobotSim_Add_All_Point.png)
-	- 記錄完第一點後，其他點只需要使用複製方式，並更改其Position
+	![Robot_Model](./image/RobotSim_Add_All_Point.png)
+	-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置 (Position)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NTkwMjg3LC0xMDQ1Njg1OTQ1LC03MT
+eyJoaXN0b3J5IjpbLTI0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MT
 cyOTU1NDEsLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5
 NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4NDEsLT
 I5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4
