@@ -107,16 +107,17 @@
 		- 創立一個空的物件GameObject
 		
 	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
-		- 將物件名稱更改為所分類名稱
+		- 將物件名稱更改為所分類名稱Blue_Box
 		- 將點位P1至P1 (4)拖移至空物件裡面
 
-	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
+	![Robot_Model](./image/RobotSim_All_Blue_Box.png)
+		- 其他排只需複製現有Blue_Box，選取裡面P1至P1 (4)點位直接移動
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMyNTM1OTEsLTE4NzQwMzIxMDAsLT
-I0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MTcyOTU1NDEsLTE1NjUy
-NDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzNDcwNzMxNz
-EsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1MywtMTcx
-MjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMD
-U2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMjI1
-LDIwOTcwNjE5NjFdfQ==
+eyJoaXN0b3J5IjpbLTk5MDkyMTgzMSwtMTg3NDAzMjEwMCwtMj
+Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
+MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MS
+wtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC0xNzEy
+MTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAwNT
+Y3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMjUs
+MjA5NzA2MTk2MV19
 -->
