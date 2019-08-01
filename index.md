@@ -97,33 +97,33 @@
 
 1. 手臂移動紀錄點位
 
-	-利用位置參數設定點位 
+	- 利用位置參數設定點位 
 
-	![Robot_Model](./image/RobotSim_Add_Point.png)
-	- 將手臂移動至物件夾取位置
-	- 利用 [+Point] 功能紀錄點位
+		![Robot_Model](./image/RobotSim_Add_Point.png)
+		- 將手臂移動至物件夾取位置
+		- 利用 [+Point] 功能紀錄點位
 
-	![Robot_Model](./image/RobotSim_Add_All_Point.png)
+		![Robot_Model](./image/RobotSim_Add_All_Point.png)
 	
-	-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m
+		-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m)
 
 	- 利用空物件進行分類幫助分類不同點位
 
-		![Robot_Model](./image/RobotSim_Create_Empty.png)
-		- 創立一個空的物件GameObject
+			![Robot_Model](./image/RobotSim_Create_Empty.png)
+			- 創立一個空的物件GameObject
 		
-		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
-		- 將物件名稱更改為所分類名稱Blue_Box
-		- 將點位P1至P1(4)拖移至空物件裡面
+			![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
+			- 將物件名稱更改為所分類名稱Blue_Box
+			- 將點位P1至P1(4)拖移至空物件裡面
 
 		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 		- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzIwMSwtMTkzODczODU1OSw2MzY1OT
-MxMDAsLTE4NzQwMzIxMDAsLTI0NTg5OTA1LC0xMDQ1Njg1OTQ1
-LC03MTcyOTU1NDEsLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMT
-gzOTQ5NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4
-NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC
-0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgw
-OTMzMTg2MV19
+eyJoaXN0b3J5IjpbOTkwODkwMzA0LDEzMTMyMDEsLTE5Mzg3Mz
+g1NTksNjM2NTkzMTAwLC0xODc0MDMyMTAwLC0yNDU4OTkwNSwt
+MTA0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNTY1MjQyMjc3LDIwMj
+QyOTM0NzAsLTE4Mzk0OTQ4MjAsMzQ3MDczMTcxLC0xOTA3NjUy
+MDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4NzQsMT
+Q3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNCwtNjE2
+MTMxNjM0XX0=
 -->
