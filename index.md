@@ -93,6 +93,7 @@
 ### 紀錄各物件點位
 
 - 手臂移動紀錄點位
+
 	![Robot_Model](./image/RobotSim_Add_Point.png)
 	- 將手臂移動至物件夾取位置
 	- 利用 [+Point] 功能紀錄點位
@@ -101,13 +102,15 @@
 	-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m
 	- 完成第一疊後，其他疊點位只需要複製第一疊，更改其X, Z參數
 
+- 利用空物件進行分類
 
+	![Robot_Model](./image/RobotSim_Add_All_Point.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMxMjczMDQsLTE4NzQwMzIxMDAsLT
-I0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MTcyOTU1NDEsLTE1NjUy
-NDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzNDcwNzMxNz
-EsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1MywtMTcx
-MjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMD
-U2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMjI1
-LDIwOTcwNjE5NjFdfQ==
+eyJoaXN0b3J5IjpbLTU2OTU4MjYwMywtMTg3NDAzMjEwMCwtMj
+Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
+MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MS
+wtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC0xNzEy
+MTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAwNT
+Y3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMjUs
+MjA5NzA2MTk2MV19
 -->
