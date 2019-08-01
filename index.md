@@ -92,11 +92,12 @@
 --- 
 ### 紀錄各物件點位
 
-- 利用
-	![Robot_Model](./image/RobotSim_Complete_Environment.png)
-	![Robot_Model](./image/RobotSim_Complete_Environment.png)
+- 手臂移動紀錄點位
+	![Robot_Model](./image/RobotSim_Add_Point.png)
+
+![Robot_Model](./image/RobotSim_Add_All_Point.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzQ2NjY2OSwtMTA0NTY4NTk0NSwtNz
+eyJoaXN0b3J5IjpbMTQ5NzY4NDM3MiwtMTA0NTY4NTk0NSwtNz
 E3Mjk1NTQxLC0xNTY1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0
 OTQ4MjAsMzQ3MDczMTcxLC0xOTA3NjUyMDg5LDg1NDI5ODQxLC
 0yOTQyMzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQy
