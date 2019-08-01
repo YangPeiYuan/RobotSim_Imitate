@@ -32,7 +32,7 @@
 		- 將夾爪RGN300拖移到場景上，並且把位置 (Position) 設為原點 (X 0, Y 0, Z 0)
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
-		- 將手臂Y轉向180度，法蘭面對準夾爪
+		- 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
 		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
@@ -44,7 +44,7 @@
 	- 建立球形3D物件                                                                            
 		![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
 		
-	- 設定物件大小                                                                                 
+	- 設定物件大小規模 (Scale)                                                                                 
 		![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定範圍單位為 公尺(m)
 		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m            
@@ -81,7 +81,7 @@
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcyMTI2MjQsMzQ3MDczMTcxLC0xOT
+eyJoaXN0b3J5IjpbLTE4Mzk0OTQ4MjAsMzQ3MDczMTcxLC0xOT
 A3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4
 NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1NjczNC
 wtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5MzIyNSwyMDk3
