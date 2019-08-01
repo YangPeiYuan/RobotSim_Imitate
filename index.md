@@ -59,7 +59,8 @@
 3. 建立工作空間範圍
 
 	- 手臂在空間中可工作的範圍
-	- PS. 可用來觀察手臂運動中有無超越或撞機風險                               
+	- PS. 可用來觀察手臂運動中有無超越或撞機風險        
+    
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 	![Robot_Model](./image/RobotSim_Set_Line.png)
@@ -79,11 +80,11 @@
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5ND
-IzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAw
-MzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MS
-wtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0
-NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwOD
-Q0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5
-NDU0ODY2NF19
+eyJoaXN0b3J5IjpbLTE3ODU3ODQyNTMsLTE5MDc2NTIwODksOD
+U0Mjk4NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0
+OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2Mz
+QsLTgwOTMzMTg2MSwtMjc3MzkzMjI1LDIwOTcwNjE5NjEsODEx
+Mjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEwNTAyOTUsLTQ2MTg1Nj
+gxMiwtNjkxNjUwODQ0LDIwNDExNjUwODAsMjk0NTQ4NjY0LC0x
+MzQ2OTIwMjE0XX0=
 -->
