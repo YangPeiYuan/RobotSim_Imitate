@@ -87,9 +87,9 @@
 		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
-		- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
+		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc2NTcyOTksMjAyNDI5MzQ3MCwtMT
+eyJoaXN0b3J5IjpbLTE2NjMxOTMwMDEsMjAyNDI5MzQ3MCwtMT
 gzOTQ5NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4
 NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC
 0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgw
