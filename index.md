@@ -17,21 +17,22 @@
 ### RobotSim建置作業環境
 
 1. 加入機械手臂KUKA KR60-L45-3、夾爪RGN+300-1
-	- 將手臂模型匯入RobotSim                                              
+	- 將手臂模型匯入RobotSim                          
+                                                                                                                                                                
 		 ![Robot_Model](./image/RobotSim_Import_Model.png)
 		 
 	- 加入機械手臂                                                                                   
 		![Robot_Model](./image/RobotSim_Import_Robot.png)
-
+                                                                                                                                                              
 	- 加入夾爪模型                                                                                    
 		![Robot_Model](./image/RobotSim_Import_New_Asset.png)
 		![Robot_Model](./image/RobotSim_Import_RNG300.png)
 		![Robot_Model](./image/RobotSim_Set_gripper.png)
 		- 將夾爪RGN300拖移到場景上，並且把位置設為原點 (X 0, Y 0, Z 0)
-
+                                                                                                                                                      
 		![Robot_Model](./image/RobotSim_Set_Robot_Position.png)
 		- 將手臂Y轉向180度，法蘭面對準夾爪
-
+                                                                                                                                                      
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
 		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
 
@@ -78,11 +79,11 @@
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODkzOTc3LDg1NDI5ODQxLC0yOTQyMz
-k4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0
-NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEsLT
-I3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQy
-MTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NC
-wyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1
-NDg2NjRdfQ==
+eyJoaXN0b3J5IjpbMTkwMDg5NzAzMSw4NTQyOTg0MSwtMjk0Mj
+M5ODUzLC0xNzEyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAz
+NDUsLTE2ODAwNTY3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC
+0yNzczOTMyMjUsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0
+MjE0NzEsLTcwMTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4ND
+QsMjA0MTE2NTA4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0
+NTQ4NjY0XX0=
 -->
