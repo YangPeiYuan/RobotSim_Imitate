@@ -95,13 +95,13 @@
 --- 
 ### 點位記錄及模擬實作
 
-1. 手臂移動紀錄點位
+1. 紀錄手臂點位
 
-	- 利用位置參數設定點位 
+	- 使用位置參數設定點位 
 
 		![Robot_Model](./image/RobotSim_Add_Point.png)
 		- 將手臂移動至物件夾取位置
-		- 利用 [+Point] 功能紀錄點位
+		- 使用 [+Point] 功能紀錄點位
 
 		![Robot_Model](./image/RobotSim_Add_All_Point.png)
 	
@@ -118,12 +118,16 @@
 
 			![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 			- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
+
+2. 將點位
+
+	- 使用Program將記錄點位方別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzY2NTIxNiwxMzEzMjAxLC0xOTM4Nz
-M4NTU5LDYzNjU5MzEwMCwtMTg3NDAzMjEwMCwtMjQ1ODk5MDUs
-LTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0MjI3NywyMD
-I0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MSwtMTkwNzY1
-MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC0xNzEyMTQ4ODc0LD
-E0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAwNTY3MzQsLTYx
-NjEzMTYzNF19
+eyJoaXN0b3J5IjpbLTMzNjExMjI3NCwtNDEzNjY1MjE2LDEzMT
+MyMDEsLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xODc0MDMyMTAw
+LC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNT
+Y1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4MjAsMzQ3MDcz
+MTcxLC0xOTA3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLT
+E3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4
+MDA1NjczNF19
 -->
