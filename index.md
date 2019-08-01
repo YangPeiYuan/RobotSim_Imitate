@@ -6,7 +6,7 @@
 
 ### 選用設備
 
-- 機械手臂 : KUKA KR60-L45-3[手臂](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
+- 機械手臂 : KUKA KR60-L45-3[手臂unitypackage](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
 	- 限制重量 : 45kg
 	- 工作範圍 : 2230cm
 	
@@ -78,11 +78,11 @@
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTI1MDMzNCwtMjk0MjM5ODUzLC0xNz
-EyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAw
-NTY3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMj
-UsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0NzEsLTcw
-MTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4NDQsMjA0MTE2NT
-A4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4NjY0LDEx
-ODc2NjY3M119
+eyJoaXN0b3J5IjpbODU0Mjk4NDEsLTI5NDIzOTg1MywtMTcxMj
+E0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2
+NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMjI1LD
+IwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEw
+NTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNjUwOD
+AsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwxMTg3
+NjY2NzNdfQ==
 -->
