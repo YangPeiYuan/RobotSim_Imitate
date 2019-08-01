@@ -133,15 +133,15 @@
 		- 將手臂Tool拖移至Gripper
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	
-	![Robot_Model](./image/RobotSim_Gripper_Lock_Box)
+	![Robot_Model](./image/RobotSim_Gripper_Lock_Box.png)
 		- 將GripperLock(True)移動至預夾取物件點位下方即可夾取
-		- 預放置物件則將GriiperLock(False)
+		- 將GriiperLock(False)移動至預放置物件點位下方即可放置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2MTY2ODksMzQ1MjQzMDk4LDE1MzM4MD
-E2ODQsLTQxMzY2NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYz
-NjU5MzEwMCwtMTg3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2OD
-U5NDUsLTcxNzI5NTU0MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcw
-LC0xODM5NDk0ODIwLDM0NzA3MzE3MSwtMTkwNzY1MjA4OSw4NT
-QyOTg0MSwtMjk0MjM5ODUzLC0xNzEyMTQ4ODc0LDE0NzA5MDQ5
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTYwNzUzOTgwNywzNDUyNDMwOTgsMTUzMz
+gwMTY4NCwtNDEzNjY1MjE2LDEzMTMyMDEsLTE5Mzg3Mzg1NTks
+NjM2NTkzMTAwLC0xODc0MDMyMTAwLC0yNDU4OTkwNSwtMTA0NT
+Y4NTk0NSwtNzE3Mjk1NTQxLC0xNTY1MjQyMjc3LDIwMjQyOTM0
+NzAsLTE4Mzk0OTQ4MjAsMzQ3MDczMTcxLC0xOTA3NjUyMDg5LD
+g1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkw
+NDk1M119
 -->
