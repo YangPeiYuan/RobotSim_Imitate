@@ -87,6 +87,9 @@
 		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
+		- 選擇物件，右上角取消勾選即能將物件影藏
+
+		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
 
 --- 
@@ -114,11 +117,11 @@
 	![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 	- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xOD
-c0MDMyMTAwLC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1
-NTQxLC0xNTY1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4Mj
-AsMzQ3MDczMTcxLC0xOTA3NjUyMDg5LDg1NDI5ODQxLC0yOTQy
-Mzk4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMD
-M0NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEs
-LTI3NzM5MzIyNV19
+eyJoaXN0b3J5IjpbLTYyMjk5ODAyMiwtMTkzODczODU1OSw2Mz
+Y1OTMxMDAsLTE4NzQwMzIxMDAsLTI0NTg5OTA1LC0xMDQ1Njg1
+OTQ1LC03MTcyOTU1NDEsLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MC
+wtMTgzOTQ5NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0
+Mjk4NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OT
+UzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQs
+LTgwOTMzMTg2MV19
 -->
