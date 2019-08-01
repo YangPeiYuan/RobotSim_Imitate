@@ -35,7 +35,7 @@
 		- 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
-		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
+		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -78,19 +78,28 @@
 	- 適各專案模擬所需使用其他物件  
 	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
 
- - 利用位置 (Position) 參數放置物體實際位置
+	 - 擺放物件方式                                       
 
+		![Robot_Model](./image/RobotSim_Position.png)
+		 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
 
-- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
+		![Robot_Model](./image/RobotSim_Position_Stacking.png)
+		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
 
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
-	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
+		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
+
+--- 
+### 紀錄各物點位
+		
+		
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzND
-cwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1
-MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC
-0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3
-MzkzMjI1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxND
-cxLC03MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIw
-NDExNjUwODBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMT
+U2NTI0MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3
+MzE3MSwtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC
+0xNzEyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2
+ODAwNTY3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOT
+MyMjUsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0NzEs
+LTcwMTA1MDI5NV19
 -->
