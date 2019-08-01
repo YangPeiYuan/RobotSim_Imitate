@@ -131,10 +131,10 @@
 
 	![Robot_Model](./image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
-		- 下方Lock勾選為ㄐㄧ物件(True)、反之取消勾選為放下物件()
+		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODgxNjU2LDE1MzM4MDE2ODQsLTQxMz
+eyJoaXN0b3J5IjpbMzQ1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMz
 Y2NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwt
 MTg3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNz
 I5NTU0MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0
