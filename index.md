@@ -99,25 +99,29 @@
 	- 利用 [+Point] 功能紀錄點位
 
 	![Robot_Model](./image/RobotSim_Add_All_Point.png)
+	
 	-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m
 
 - 利用空物件進行分類幫助分類不同點位
 
 	![Robot_Model](./image/RobotSim_Create_Empty.png)
+	
 		- 創立一個空的物件GameObject
 		
 	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
+	
 		- 將物件名稱更改為所分類名稱Blue_Box
 		- 將點位P1至P1 (4)拖移至空物件裡面
 
 	![Robot_Model](./image/RobotSim_All_Blue_Box.png)
-		- 其他排只需複製現有Blue_Box，選取裡面P1至P1 (4)點位直接移動
+	
+		- 其他排只需複製現有Blue_Box，選取裡面P1至P1 (4)點位直接移動位置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDkyMTgzMSwtMTg3NDAzMjEwMCwtMj
-Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
-MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MS
-wtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC0xNzEy
-MTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAwNT
-Y3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMjUs
-MjA5NzA2MTk2MV19
+eyJoaXN0b3J5IjpbNjM2NTkzMTAwLC0xODc0MDMyMTAwLC0yND
+U4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNTY1MjQy
+Mjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4MjAsMzQ3MDczMTcxLC
+0xOTA3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLTE3MTIx
+NDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4MDA1Nj
+czNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEsLTI3NzM5MzIyNSwy
+MDk3MDYxOTYxXX0=
 -->
