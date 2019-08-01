@@ -109,30 +109,36 @@
 
 	- 利用空物件進行分類幫助分類不同點位
 
-			![Robot_Model](./image/RobotSim_Create_Empty.png)
+		![Robot_Model](./image/RobotSim_Create_Empty.png)
 			- 創立一個空的物件GameObject
 		
-			![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
+		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
 			- 將物件名稱更改為所分類名稱Blue_Box
 			- 將點位P1至P1(4)拖移至空物件裡面
 
-			![Robot_Model](./image/RobotSim_All_Blue_Box.png)
+		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 			- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
 
 2. 將點位連接成動作
 
 	- 使用Program編輯流程
 
+	![Robot_Model](./image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
 
-
+	![Robot_Model](./image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠鎖定以及解鎖
+
+	![Robot_Model](./image/RobotSim_Gripper_Lock.png)
+		- 將手臂Tool拖移至Gripper
+		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzgwMTY4NCwtNDEzNjY1MjE2LDEzMT
-MyMDEsLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xODc0MDMyMTAw
-LC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNT
-Y1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4MjAsMzQ3MDcz
-MTcxLC0xOTA3NjUyMDg5LDg1NDI5ODQxLC0yOTQyMzk4NTMsLT
-E3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0NSwtMTY4
-MDA1NjczNF19
+eyJoaXN0b3J5IjpbMzQ1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMz
+Y2NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwt
+MTg3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNz
+I5NTU0MSwtMTU2NTI0MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0
+ODIwLDM0NzA3MzE3MSwtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMj
+k0MjM5ODUzLC0xNzEyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0Mjgy
+MDAzNDVdfQ==
 -->
