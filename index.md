@@ -37,7 +37,7 @@
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
-- PS. 移動手臂時較方便目測極限距離                                                                    
+	- PS. 移動手臂時較方便目測極限距離                                                                    
 
 	- 建立球形3D物件                                                                            
 		![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
@@ -57,8 +57,8 @@
 
 3. 建立工作空間範圍
 
-- 手臂在空間中可工作的範圍
-- PS. 可用來觀察手臂運動中有無超越或撞機風險                               
+	- 手臂在空間中可工作的範圍
+	- PS. 可用來觀察手臂運動中有無超越或撞機風險                               
 	![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 	![Robot_Model](./image/RobotSim_Set_Line.png)
@@ -72,17 +72,17 @@
 
 4. 建立其他專案所需物件
 
-- 適各專案模擬所需使用其他物件  
-- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)
+	- 適各專案模擬所需使用其他物件  
+	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)
 
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0Mjk4NDEsLTI5NDIzOTg1MywtMTcxMj
-E0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgwMDU2
-NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMjI1LD
-IwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03MDEw
-NTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNjUwOD
-AsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwxMTg3
-NjY2NzNdfQ==
+eyJoaXN0b3J5IjpbMTk5ODkzOTc3LDg1NDI5ODQxLC0yOTQyMz
+k4NTMsLTE3MTIxNDg4NzQsMTQ3MDkwNDk1MywtMTQyODIwMDM0
+NSwtMTY4MDA1NjczNCwtNjE2MTMxNjM0LC04MDkzMzE4NjEsLT
+I3NzM5MzIyNSwyMDk3MDYxOTYxLDgxMTI5OTI0NCwtMTI1NDQy
+MTQ3MSwtNzAxMDUwMjk1LC00NjE4NTY4MTIsLTY5MTY1MDg0NC
+wyMDQxMTY1MDgwLDI5NDU0ODY2NCwtMTM0NjkyMDIxNCwyOTQ1
+NDg2NjRdfQ==
 -->
