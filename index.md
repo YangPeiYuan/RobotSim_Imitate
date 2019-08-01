@@ -104,9 +104,11 @@
 
 - 利用空物件進行分類
 
-	![Robot_Model](./image/RobotSim_Add_All_Point.png)
+	![Robot_Model](./image/RobotSim_Create_Empty.png)
+
+	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTU4MjYwMywtMTg3NDAzMjEwMCwtMj
+eyJoaXN0b3J5IjpbMTg2OTY1NjUyMCwtMTg3NDAzMjEwMCwtMj
 Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
 MjI3NywyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MS
 wtMTkwNzY1MjA4OSw4NTQyOTg0MSwtMjk0MjM5ODUzLC0xNzEy
