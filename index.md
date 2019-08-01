@@ -126,9 +126,9 @@
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
 
 
-		-  
+		-  使須夾取物件能夠鎖定以及解鎖
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjE3MTAwOSwtNDEzNjY1MjE2LDEzMT
+eyJoaXN0b3J5IjpbMTUzMzgwMTY4NCwtNDEzNjY1MjE2LDEzMT
 MyMDEsLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xODc0MDMyMTAw
 LC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNT
 Y1MjQyMjc3LDIwMjQyOTM0NzAsLTE4Mzk0OTQ4MjAsMzQ3MDcz
