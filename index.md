@@ -109,8 +109,10 @@
 	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
 		- 將物件名稱更改為所分類名稱
 		- 將點位P1至P1 (4)拖移至空物件裡面
+
+	![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4NjUxNTAsLTE4NzQwMzIxMDAsLT
+eyJoaXN0b3J5IjpbLTE1NTMyNTM1OTEsLTE4NzQwMzIxMDAsLT
 I0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MTcyOTU1NDEsLTE1NjUy
 NDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzNDcwNzMxNz
 EsLTE5MDc2NTIwODksODU0Mjk4NDEsLTI5NDIzOTg1MywtMTcx
