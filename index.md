@@ -10,7 +10,7 @@
 	- 限制重量 : 45kg
 	- 工作範圍 : 2230cm
 	
-- 夾爪 : RGN+300-1[模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
+- 夾爪 : RGN+300-1[夾爪模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
 
 ---
 
@@ -73,16 +73,16 @@
 4. 建立其他專案所需物件
 
 - 適各專案模擬所需使用其他物件  
-- 
+- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)
 
 	![Robot_Model](./image/RobotSim_Complete_Environment.png)
 	- 本專案經模擬後，手臂擺放位置更改成Y轉150，在這個角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4NTA1NzMsLTI5NDIzOTg1MywtMT
-cxMjE0ODg3NCwxNDcwOTA0OTUzLC0xNDI4MjAwMzQ1LC0xNjgw
-MDU2NzM0LC02MTYxMzE2MzQsLTgwOTMzMTg2MSwtMjc3MzkzMj
-I1LDIwOTcwNjE5NjEsODExMjk5MjQ0LC0xMjU0NDIxNDcxLC03
-MDEwNTAyOTUsLTQ2MTg1NjgxMiwtNjkxNjUwODQ0LDIwNDExNj
-UwODAsMjk0NTQ4NjY0LC0xMzQ2OTIwMjE0LDI5NDU0ODY2NCwx
-MTg3NjY2NzNdfQ==
+eyJoaXN0b3J5IjpbLTU5NDAzNzcyMiwtMjk0MjM5ODUzLC0xNz
+EyMTQ4ODc0LDE0NzA5MDQ5NTMsLTE0MjgyMDAzNDUsLTE2ODAw
+NTY3MzQsLTYxNjEzMTYzNCwtODA5MzMxODYxLC0yNzczOTMyMj
+UsMjA5NzA2MTk2MSw4MTEyOTkyNDQsLTEyNTQ0MjE0NzEsLTcw
+MTA1MDI5NSwtNDYxODU2ODEyLC02OTE2NTA4NDQsMjA0MTE2NT
+A4MCwyOTQ1NDg2NjQsLTEzNDY5MjAyMTQsMjk0NTQ4NjY0LDEx
+ODc2NjY3M119
 -->
