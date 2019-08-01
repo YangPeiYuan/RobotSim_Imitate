@@ -35,7 +35,7 @@
 		- 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
 
 		![Robot_Model](./image/RobotSim_Set_Robot_Tool.png)
-		- 將RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
+		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -89,7 +89,7 @@
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 		- 本專案經模擬後，手臂擺放位置更改成Y轉150，此角度下手臂的工作路徑相對較順暢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxOTMwMDEsMjAyNDI5MzQ3MCwtMT
+eyJoaXN0b3J5IjpbLTE1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMT
 gzOTQ5NDgyMCwzNDcwNzMxNzEsLTE5MDc2NTIwODksODU0Mjk4
 NDEsLTI5NDIzOTg1MywtMTcxMjE0ODg3NCwxNDcwOTA0OTUzLC
 0xNDI4MjAwMzQ1LC0xNjgwMDU2NzM0LC02MTYxMzE2MzQsLTgw
