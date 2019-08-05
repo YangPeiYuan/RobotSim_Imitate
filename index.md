@@ -113,11 +113,11 @@
 		- 創立一個空的物件GameObject
 		
 		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
-		- 將物件名稱更改為所分類名稱Blue_Box
+		- 將物件名稱更改為所分類名稱BlueBox
 		- 將點位P1至P1(4)拖移至空物件裡面
 
 		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
-		- 另外6疊只需複製現有Blue_Box，選取裡面P1至P1(4)點位直接移動位置
+		- 另外6疊只需複製現有BlueBox，選取裡面P1至P1(4)點位直接移動位置
 
 2. 將點位連接成動作
 
@@ -141,11 +141,11 @@
 
 ### 完整模擬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAwMzM4NDIsMjE0NDM3MDQ4NiwxOD
-QxNDg2NjcwLC0zNjgyMjE0NDUsLTEwMDYwMTQyMDYsMzQ1MjQz
-MDk4LDE1MzM4MDE2ODQsLTQxMzY2NTIxNiwxMzEzMjAxLC0xOT
-M4NzM4NTU5LDYzNjU5MzEwMCwtMTg3NDAzMjEwMCwtMjQ1ODk5
-MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0MjI3Ny
-wyMDI0MjkzNDcwLC0xODM5NDk0ODIwLDM0NzA3MzE3MSwtMTkw
-NzY1MjA4OV19
+eyJoaXN0b3J5IjpbNTQ1MTg5MDQwLC0xNDIwMDMzODQyLDIxND
+QzNzA0ODYsMTg0MTQ4NjY3MCwtMzY4MjIxNDQ1LC0xMDA2MDE0
+MjA2LDM0NTI0MzA5OCwxNTMzODAxNjg0LC00MTM2NjUyMTYsMT
+MxMzIwMSwtMTkzODczODU1OSw2MzY1OTMxMDAsLTE4NzQwMzIx
+MDAsLTI0NTg5OTA1LC0xMDQ1Njg1OTQ1LC03MTcyOTU1NDEsLT
+E1NjUyNDIyNzcsMjAyNDI5MzQ3MCwtMTgzOTQ5NDgyMCwzNDcw
+NzMxNzFdfQ==
 -->
