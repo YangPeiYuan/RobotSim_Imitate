@@ -47,11 +47,12 @@
 	- 設定物件大小規模 (Scale)                                                                                 
 		![Robot_Model](./image/RobotSim_Range_Size.png)
 		- 設定範圍單位為 公尺(m)
-		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m            
+		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m                         
+         
          
 	- 設定物件顏色                                                                                   
 		![Robot_Model](./image/RobotSim_Range_Color.png)
-		- 選擇Materials材質，拖移至Element欄位
+		- 選擇Materials材質，拖移至Element欄位                                     
 
 	- 使用相同方法建立手臂內圈極限範圍
 		![Robot_Model](./image/RobotSim_Add_Limit_Sphere.png)
@@ -68,7 +69,7 @@
 		- 將Cube改名為Line並設定線的長寬高、位置等等...
 		- 第二條線只需要複製並調整位置即可
 		- 位置參數為物件的中心，如要調整參數須注意
-
+                                                                                                                     
 		![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
 		- 設定完成後場景
 
@@ -82,13 +83,13 @@
 
 		![Robot_Model](./image/RobotSim_Position.png)
 		 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
-
+                                                                                                                          
 		![Robot_Model](./image/RobotSim_Position_Stacking.png)
 		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
-
+                                                                                                                      
 		![Robot_Model](./image/RobotSim_Blue_Box_Disappear.png)
 		- 選擇物件，右上角取消勾選即能將物件取消不使用，但還是能保有物件設定，需要使用時再勾選即可
-
+                                                                                                                            
 		![Robot_Model](./image/RobotSim_Complete_Environment.png)
 		- 本專案經模擬後，手臂擺放位置更改成旋轉(Rotation)Y 150，此角度下手臂的工作路徑相對較順暢
 
@@ -108,17 +109,17 @@
 		-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m)
 
 	- 利用空物件進行分類幫助分類不同點位
-
+                                                                                       
 		![Robot_Model](./image/RobotSim_Create_Empty.png)
 		- 創立一個空的物件GameObject
-		
+		                                                                               
 		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
 		- 將物件名稱更改為所分類名稱BlueBox
 		- 將點位P1至P1(4)拖移至空物件裡面
-
+                                                                                             
 		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 		- 另外6疊只需複製現有BlueBox，選取裡面P1至P1(4)點位直接移動位置
-
+                         
 2. 將點位連接成動作
 
 	- 使用Program編輯流程
@@ -143,11 +144,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyODMzMjE1LDEyNjkxNzg4MTUsMTI2OT
-E3ODgxNSw1NDUxODkwNDAsLTE0MjAwMzM4NDIsMjE0NDM3MDQ4
-NiwxODQxNDg2NjcwLC0zNjgyMjE0NDUsLTEwMDYwMTQyMDYsMz
-Q1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMzY2NTIxNiwxMzEzMjAx
-LC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwtMTg3NDAzMjEwMCwtMj
-Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
-MjI3N119
+eyJoaXN0b3J5IjpbLTE0NzA2ODU4OTksMjIyODMzMjE1LDEyNj
+kxNzg4MTUsMTI2OTE3ODgxNSw1NDUxODkwNDAsLTE0MjAwMzM4
+NDIsMjE0NDM3MDQ4NiwxODQxNDg2NjcwLC0zNjgyMjE0NDUsLT
+EwMDYwMTQyMDYsMzQ1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMzY2
+NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwtMT
+g3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5
+NTU0MV19
 -->
