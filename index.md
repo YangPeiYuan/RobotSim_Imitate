@@ -119,21 +119,21 @@
                                                                                              
 		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
 		- 另外6疊只需複製現有BlueBox，選取裡面P1至P1(4)點位直接移動位置
-                         
+                                                                                                   
 2. 將點位連接成動作
 
 	- 使用Program編輯流程
-
+                                                                                                                   
 		![Robot_Model](./image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
-
+                                                                                                          
 		![Robot_Model](./image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
 
 		![Robot_Model](./image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
-	
+	                                                                                                                             
 		![Robot_Model](./image/RobotSim_Gripper_Lock_Box.png)
 		- 將GripperLock(True)移動至預夾取物件點位下方即可夾取
 		- 將GriperLock(False)移動至預放置物件點位下方即可放置
@@ -144,11 +144,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA2ODU4OTksMjIyODMzMjE1LDEyNj
-kxNzg4MTUsMTI2OTE3ODgxNSw1NDUxODkwNDAsLTE0MjAwMzM4
-NDIsMjE0NDM3MDQ4NiwxODQxNDg2NjcwLC0zNjgyMjE0NDUsLT
-EwMDYwMTQyMDYsMzQ1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMzY2
-NTIxNiwxMzEzMjAxLC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwtMT
-g3NDAzMjEwMCwtMjQ1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5
-NTU0MV19
+eyJoaXN0b3J5IjpbMTM3ODMzMTA2MywyMjI4MzMyMTUsMTI2OT
+E3ODgxNSwxMjY5MTc4ODE1LDU0NTE4OTA0MCwtMTQyMDAzMzg0
+MiwyMTQ0MzcwNDg2LDE4NDE0ODY2NzAsLTM2ODIyMTQ0NSwtMT
+AwNjAxNDIwNiwzNDUyNDMwOTgsMTUzMzgwMTY4NCwtNDEzNjY1
+MjE2LDEzMTMyMDEsLTE5Mzg3Mzg1NTksNjM2NTkzMTAwLC0xOD
+c0MDMyMTAwLC0yNDU4OTkwNSwtMTA0NTY4NTk0NSwtNzE3Mjk1
+NTQxXX0=
 -->
