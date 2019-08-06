@@ -117,7 +117,7 @@
 		- 將物件名稱更改為所分類名稱BlueBox
 		- 將點位P1至P1(4)拖移至空物件裡面
                                                                                              
-		![Robot_Model](./image/RobotSim_All_Blue_Box.png)
+		![Image](../image/RobotSim_All_Blue_Box.png)
 		- 另外6疊只需複製現有BlueBox，選取裡面P1至P1(4)點位直接移動位置
                                                                                                    
 2. 將點位連接成動作
@@ -144,5 +144,5 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE1NTIxNzUsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
 -->
