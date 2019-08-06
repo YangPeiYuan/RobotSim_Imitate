@@ -63,14 +63,14 @@
 	- 手臂在空間中可工作的範圍
 	- PS. 可用來觀察手臂運動中有無超越或撞機風險        
     
-		![Robot_Model](./image/RobotSim_Add_Line.png)
+		![Image](../image/RobotSim_Add_Line.png)
 	
-		![Robot_Model](./image/RobotSim_Set_Line.png)
+		![Image](../image/RobotSim_Set_Line.png)
 		- 將Cube改名為Line並設定線的長寬高、位置等等...
 		- 第二條線只需要複製並調整位置即可
 		- 位置參數為物件的中心，如要調整參數須注意
                                                                                                                      
-		![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
+		![Image](../image/RobotSim_Set_Limit_Environment.png)
 		- 設定完成後場景
 
 
@@ -81,16 +81,16 @@
 
 	 - 擺放物件方式                                       
 
-		![Robot_Model](./image/RobotSim_Position.png)
+		![Image](../image/RobotSim_Position.png)
 		 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
                                                                                                                           
-		![Robot_Model](./image/RobotSim_Position_Stacking.png)
+		![Image](../image/RobotSim_Position_Stacking.png)
 		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
                                                                                                                       
-		![Robot_Model](./image/RobotSim_Blue_Box_Disappear.png)
+		![Image](../image/RobotSim_Blue_Box_Disappear.png)
 		- 選擇物件，右上角取消勾選即能將物件取消不使用，但還是能保有物件設定，需要使用時再勾選即可
                                                                                                                             
-		![Robot_Model](./image/RobotSim_Complete_Environment.png)
+		![Image](../image/RobotSim_Complete_Environment.png)
 		- 本專案經模擬後，手臂擺放位置更改成旋轉(Rotation)Y 150，此角度下手臂的工作路徑相對較順暢
 
 --- 
@@ -100,20 +100,20 @@
 
 	- 使用位置參數設定點位 
 
-		![Robot_Model](./image/RobotSim_Add_Point.png)
+		![Image](../image/RobotSim_Add_Point.png)
 		- 將手臂移動至物件夾取位置
 		- 使用 [+Point] 功能紀錄點位
 
-		![Robot_Model](./image/RobotSim_Add_All_Point.png)
+		![Image](../image/RobotSim_Add_All_Point.png)
 	
 		-  記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m)
 
 	- 利用空物件進行分類幫助分類不同點位
                                                                                        
-		![Robot_Model](./image/RobotSim_Create_Empty.png)
+		![Image](../image/RobotSim_Create_Empty.png)
 		- 創立一個空的物件GameObject
 		                                                                               
-		![Robot_Model](./image/RobotSim_Create_Blue_Box.png)
+		![Image](../image/RobotSim_Create_Blue_Box.png)
 		- 將物件名稱更改為所分類名稱BlueBox
 		- 將點位P1至P1(4)拖移至空物件裡面
                                                                                              
@@ -144,5 +144,5 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTIyMjUyMCwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTE0MzE1NTIxNzUsMTM3ODMzMTA2M119
 -->
