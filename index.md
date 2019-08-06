@@ -39,7 +39,7 @@
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
-	- PS. 移動手臂時較方便目測極限距離                                                                    
+	- 移動手臂時較方便目測極限距離                                                                    
 
 	- 建立球形3D物件                                                                            
 		![Robot_Model](./image/RobotSim_Add_Range_Sphere.png)
@@ -65,12 +65,12 @@
 		![Robot_Model](./image/RobotSim_Add_Line.png)
 	
 		![Robot_Model](./image/RobotSim_Set_Line.png)
-	- 將Cube改名為Line並設定線的長寬高、位置等等...
-	- 第二條線只需要複製並調整位置即可
-	- PS. 位置參數為物件的中心，如要調整參數須注意
+		- 將Cube改名為Line並設定線的長寬高、位置等等...
+		- 第二條線只需要複製並調整位置即可
+		- 位置參數為物件的中心，如要調整參數須注意
 
 		![Robot_Model](./image/RobotSim_Set_Limit_Environment.png)
-	- 設定完成後場景
+		- 設定完成後場景
 
 
 4. 建立其他專案所需物件
@@ -143,11 +143,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTE3ODgxNSwxMjY5MTc4ODE1LDU0NT
-E4OTA0MCwtMTQyMDAzMzg0MiwyMTQ0MzcwNDg2LDE4NDE0ODY2
-NzAsLTM2ODIyMTQ0NSwtMTAwNjAxNDIwNiwzNDUyNDMwOTgsMT
-UzMzgwMTY4NCwtNDEzNjY1MjE2LDEzMTMyMDEsLTE5Mzg3Mzg1
-NTksNjM2NTkzMTAwLC0xODc0MDMyMTAwLC0yNDU4OTkwNSwtMT
-A0NTY4NTk0NSwtNzE3Mjk1NTQxLC0xNTY1MjQyMjc3LDIwMjQy
-OTM0NzBdfQ==
+eyJoaXN0b3J5IjpbMjIyODMzMjE1LDEyNjkxNzg4MTUsMTI2OT
+E3ODgxNSw1NDUxODkwNDAsLTE0MjAwMzM4NDIsMjE0NDM3MDQ4
+NiwxODQxNDg2NjcwLC0zNjgyMjE0NDUsLTEwMDYwMTQyMDYsMz
+Q1MjQzMDk4LDE1MzM4MDE2ODQsLTQxMzY2NTIxNiwxMzEzMjAx
+LC0xOTM4NzM4NTU5LDYzNjU5MzEwMCwtMTg3NDAzMjEwMCwtMj
+Q1ODk5MDUsLTEwNDU2ODU5NDUsLTcxNzI5NTU0MSwtMTU2NTI0
+MjI3N119
 -->
