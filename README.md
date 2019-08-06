@@ -143,6 +143,10 @@
 ### 完整模擬
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[English](https://yangpeiyuan.github.io/RobotSim_Simulate/en/index) / [中文](https://yangpeiyuan.github.io/RobotSim_Simulate/zh-tw//index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbLTEzODI5MTQ0MzAsMTM3ODMzMTA2M119
 -->
