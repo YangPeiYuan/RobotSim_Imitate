@@ -124,17 +124,17 @@
 
 	- 使用Program編輯流程
                                                                                                                    
-		![Robot_Model](./image/RobotSim_New_Motion.png)
+		![Image](../image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
                                                                                                           
-		![Robot_Model](./image/RobotSim_Command_Gripper.png)
+		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
 
-		![Robot_Model](./image/RobotSim_Gripper_Lock.png)
+		![Image](../image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
-		![Robot_Model](./image/RobotSim_Gripper_Lock_Box.png)
+		![Image](../image/RobotSim_Gripper_Lock_Box.png)
 		- 將GripperLock(True)移動至預夾取物件點位下方即可夾取
 		- 將GriperLock(False)移動至預放置物件點位下方即可放置
 
@@ -144,5 +144,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMTczMTA4NTg4Miw4NjI4NDkyMTIsMTM3OD
+MzMTA2M119
 -->
