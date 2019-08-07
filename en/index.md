@@ -126,7 +126,7 @@
 	- use [Programs] for edit
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
-		- Add the teaching point selecteto the program Arrange the sequence of the teaching points according to their motion order, and add the motion type to each teaching point
+		- Add the teaching point and select its motion type to the program in the sequence of motion order. , and add the motion type to each teaching point
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
@@ -146,7 +146,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NTAxMDM3LC0xMjUyNzAxMDgzLDk3Nz
+eyJoaXN0b3J5IjpbNTM5NTI0OTM2LC0xMjUyNzAxMDgzLDk3Nz
 IxNDI2NywtODgwMTMxMzQ2LC0yMDAzMDQ2MzEyLC0yNTg5Mzgy
 MTksLTE5MDYyNjEwMTgsMTgzNTMxMDgxNCwtMTAzMTc4MDE1Ni
 wxODkyNDc3NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcy
