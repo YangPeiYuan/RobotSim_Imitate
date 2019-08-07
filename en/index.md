@@ -53,7 +53,7 @@
 		![Image](../image/RobotSim_Range_Color.png)
 		- Choose **Materials** and drag to **Element**                                     
 
-	- Likewise, build the inner limitation of the robot
+	- Likewise, we can build the inner limitation of the robot
 		![Image](../image/RobotSim_Add_Limit_Sphere.png)
 
 
@@ -144,8 +144,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxOD
-kyNDc3NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2
-MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04ND
-AxOTI1MzYsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbLTE5MDYyNjEwMTgsMTgzNTMxMDgxNCwtMT
+AzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0ODY5NDUsLTU1NzEw
+MjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwtMT
+M4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
