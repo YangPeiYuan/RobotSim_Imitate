@@ -76,7 +76,7 @@
 
 4. 建立其他專案所需物件
 
-	- 適各專案模擬所需使用其他物件  
+	-  視各專案模擬所需使用其他物件  
 	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
 
 	 - 擺放物件方式                                       
@@ -144,6 +144,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDY1MzA2OCwxNzMxMDg1ODgyLDg2Mj
-g0OTIxMiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTE2MjA5NjAwMSwtNTQwNjUzMDY4LDE3Mz
+EwODU4ODIsODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
 -->
