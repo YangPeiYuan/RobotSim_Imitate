@@ -121,9 +121,9 @@
 		![Image](../image/RobotSim_All_Blue_Box.png)
 		- duplicate BlueBox and update  P1～ P1(4) inside for other stacks
                                                                                                    
-2. 將點位連接成動作
+2. Programming the teaching points
 
-	- 使用Program編輯流程
+	- use Program編輯流程
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
@@ -146,10 +146,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5Mzk5OTEsOTc3MjE0MjY3LC04ODAxMz
-EzNDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAx
-OCwxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLT
-Q0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4
-NTgsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMz
-c4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbMTMxNDAzNzU0OCw5NzcyMTQyNjcsLTg4MD
+EzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYx
+MDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NS
+wtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAx
+NTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LD
+EzNzgzMzEwNjNdfQ==
 -->
