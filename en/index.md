@@ -37,7 +37,7 @@
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
 		- Drag obiect RNG300 into Tool1 and set the Flange position at (0, -0.35, 0) such that the center of the flange will match to the center of the gripper RGN300 perfectly.
 
-2. Layout the working space for robot 
+2. Drawing the working envelope of the robot 
 	-To move the robot to observe the reach limitations          
 
 	- Build a 3D spherical object                                                                      
@@ -57,7 +57,7 @@
 		![Image](../image/RobotSim_Add_Limit_Sphere.png)
 
 
-3. Build the working area 建立工作空間範圍
+3. Build the working space
 
 	- 手臂在空間中可工作的範圍
 	- PS. 可用來觀察手臂運動中有無超越或撞機風險        
@@ -144,8 +144,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtND
-Q5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1
-OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNz
-gzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxOD
+kyNDc3NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2
+MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04ND
+AxOTI1MzYsMTM3ODMzMTA2M119
 -->
