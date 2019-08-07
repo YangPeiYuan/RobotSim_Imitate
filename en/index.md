@@ -128,8 +128,9 @@
 		-  Add Gripper command object
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
-		- drag **Tool** to **Gripper**
-		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
+		- drag **Tool1** to **Gripper** so the creating object will use tool1 as its tool.
+		- Check **Lock**as object GripperLock(True)
+		- U勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
 		- set GripperLock(True) under the picking point for gripping box
@@ -141,11 +142,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU3NjcyNjEsMjEzMzMwNTYyNiwtMT
-YxOTIwMjYzNCwxNTkwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2
-MDk1NCwtMTI1MjcwMTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0Ni
-wtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4
-MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5ND
-g2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwy
-MzIyOTMwOTRdfQ==
+eyJoaXN0b3J5IjpbMzc0ODM0MTcsMjEzMzMwNTYyNiwtMTYxOT
+IwMjYzNCwxNTkwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2MDk1
+NCwtMTI1MjcwMTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0NiwtMj
+AwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4MzUz
+MTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2OT
+Q1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIy
+OTMwOTRdfQ==
 -->
