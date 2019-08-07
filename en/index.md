@@ -60,12 +60,12 @@
 3. Build the working space
 
 	- Drawing the wall or user's defined station boundary
-	- Move the robot to analyze the p rist of interferences    
+	- Move the robot to analyze the potential risk of interferences    
     
 		![Image](../image/RobotSim_Add_Line.png)
 	
 		![Image](../image/RobotSim_Set_Line.png)
-		- 將Cube改名為Line並設定線的長寬高、位置等等...
+		- rename **Cube** as **Line** and set its dime並設定線的長寬高、位置等等...
 		- 第二條線只需要複製並調整位置即可
 		- 位置參數為物件的中心，如要調整參數須注意
                                                                                                                      
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTQ4MjIzLC0xOTA2MjYxMDE4LDE4Mz
-UzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2
-OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMz
-IyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEw
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzgwMjU3OTcsLTE5MDYyNjEwMTgsMT
+gzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0
+ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LD
+IzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMz
+MTA2M119
 -->
