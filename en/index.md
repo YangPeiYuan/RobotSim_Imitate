@@ -76,7 +76,7 @@
 4. Buid the other facilitis or objects
 
 	- 適各專案模擬所需使用其他物件  
-	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
+	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
 
 	 - 擺放物件方式                                       
 
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU0MTQ3NzIsLTE5MDYyNjEwMTgsMT
-gzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0
-ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LD
-IzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMz
-MTA2M119
+eyJoaXN0b3J5IjpbNTE5Nzg0NTAsLTE5MDYyNjEwMTgsMTgzNT
+MxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0ODY5
+NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMj
+I5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2
+M119
 -->
