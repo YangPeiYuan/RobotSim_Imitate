@@ -119,7 +119,7 @@
                                                                                         
                                                                                              
 		![Image](../image/RobotSim_All_Blue_Box.png)
-		- duplicate BlueBox and update  P1～ P1(4) inside for other 6 stacks
+		- duplicate BlueBox and update  P1～ P1(4) inside for other stacks
                                                                                                    
 2. 將點位連接成動作
 
@@ -146,10 +146,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NzMxMTE3LDk3NzIxNDI2NywtODgwMT
-MxMzQ2LC0yMDAzMDQ2MzEyLC0yNTg5MzgyMTksLTE5MDYyNjEw
-MTgsMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC
-00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1
-ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMT
-M3ODMzMTA2M119
+eyJoaXN0b3J5IjpbNjc5Mzk5OTEsOTc3MjE0MjY3LC04ODAxMz
+EzNDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAx
+OCwxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLT
+Q0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4
+NTgsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMz
+c4MzMxMDYzXX0=
 -->
