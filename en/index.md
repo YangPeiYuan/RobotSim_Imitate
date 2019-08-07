@@ -1,6 +1,6 @@
 ## RobotSim Simulate
 
-- For the basic operation如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
+- The instructions for the basic operation,  please refer [RobotSim Basic](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
 
 ---
 
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMjE2MSwtODQwMTkyNTM2LDEzNzgzMz
-EwNjNdfQ==
+eyJoaXN0b3J5IjpbMTYzMDkwNzA1NCwtODQwMTkyNTM2LDEzNz
+gzMzEwNjNdfQ==
 -->
