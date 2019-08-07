@@ -128,7 +128,7 @@
 		-  Add Gripper command object
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
-		- 將手臂Tool拖移至Gripper
+		- drag **Tool** to **Gripper**
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
@@ -141,7 +141,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY5NjQwMDgsMjEzMzMwNTYyNiwtMT
+eyJoaXN0b3J5IjpbLTE2MDU3NjcyNjEsMjEzMzMwNTYyNiwtMT
 YxOTIwMjYzNCwxNTkwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2
 MDk1NCwtMTI1MjcwMTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0Ni
 wtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4
