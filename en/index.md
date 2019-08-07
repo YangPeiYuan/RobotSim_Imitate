@@ -78,10 +78,10 @@
 	- Depending on the project   
 	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	set Length: 42CM Width: 29CM Height: 15CM 
 
-	 - Put the box擺放物件方式                                       
+	 - Put the box on the desired location                                  
 
 		![Image](../image/RobotSim_Position.png)
-		 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
+		 - using the **Position** parameter to choose the right place for the box, unit: meter參數放置物體實際位置，單位均為公尺(m)
                                                                                                                           
 		![Image](../image/RobotSim_Position_Stacking.png)
 		- 如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MTA0MDQ0LC0xOTA2MjYxMDE4LDE4Mz
-UzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2
-OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMz
-IyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEw
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk5MjA0NTEsLTE5MDYyNjEwMTgsMT
+gzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0
+ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LD
+IzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMz
+MTA2M119
 -->
