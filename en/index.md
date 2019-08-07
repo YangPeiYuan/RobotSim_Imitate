@@ -57,7 +57,7 @@
 		![Image](../image/RobotSim_Add_Limit_Sphere.png)
 
 
-3. 建立工作空間範圍
+3. Build the working area 建立工作空間範圍
 
 	- 手臂在空間中可工作的範圍
 	- PS. 可用來觀察手臂運動中有無超越或撞機風險        
@@ -144,7 +144,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NT
-cxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQs
-LTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtND
+Q5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1
+OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNz
+gzMzEwNjNdfQ==
 -->
