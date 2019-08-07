@@ -21,10 +21,10 @@
                     
 		 ![Image](../image/RobotSim_Import_Model.png)
 		 
-	- Import the selected Robot                                                                              
+	- Add a Robot                                                                              
 		![Image](../image/RobotSim_Import_Robot.png)
 
-	- 加入夾爪模型                                                                                    
+	- Add a gripper                                                                                
 		![Image](../image/RobotSim_Import_New_Asset.png)
 		![Image](../image/RobotSim_Import_RNG300.png)
 		![Image](../image/RobotSim_Set_gripper.png)
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDgwNjY1NDMsLTEzODg3MDE0OCwtOD
-QwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MD
+E5MjUzNiwxMzc4MzMxMDYzXX0=
 -->
