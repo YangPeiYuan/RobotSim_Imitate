@@ -137,8 +137,8 @@
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
-		- GripperLock(True) for grippi移動至預夾取物件點位下方即可夾取
-		- 將GriperLock(False)移動至預放置物件點位下方即可放置
+		- GripperLock(True) for gripping box
+		- GriperLock(False) for releasing box
 
  --- 
 
@@ -147,11 +147,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQyNjk3MjQsMTYyNjE5MDk5LC0xOD
-Y1OTYwOTU0LC0xMjUyNzAxMDgzLDk3NzIxNDI2NywtODgwMTMx
-MzQ2LC0yMDAzMDQ2MzEyLC0yNTg5MzgyMTksLTE5MDYyNjEwMT
-gsMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00
-NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1OD
-U4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3
-ODMzMTA2M119
+eyJoaXN0b3J5IjpbMTU2ODUzMTMzNSwxNjI2MTkwOTksLTE4Nj
+U5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEz
+NDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOC
+wxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0
+OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NT
+gsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4
+MzMxMDYzXX0=
 -->
