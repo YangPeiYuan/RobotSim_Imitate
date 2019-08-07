@@ -130,7 +130,7 @@
 		- 
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
-		-  使須夾取物件能夠被夾爪所夾取
+		-  Add Gripper command object
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- 將手臂Tool拖移至Gripper
@@ -147,11 +147,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc1MDM3MjcsLTE4NjU5NjA5NTQsLT
-EyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEzNDYsLTIwMDMw
-NDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOCwxODM1MzEwOD
-E0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwt
-NTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMjMyMjkzMD
-k0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMxMDYzXX0=
-
+eyJoaXN0b3J5IjpbMTYyNjE5MDk5LC0xODY1OTYwOTU0LC0xMj
+UyNzAxMDgzLDk3NzIxNDI2NywtODgwMTMxMzQ2LC0yMDAzMDQ2
+MzEyLC0yNTg5MzgyMTksLTE5MDYyNjEwMTgsMTgzNTMxMDgxNC
+wtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0ODY5NDUsLTU1
+NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NC
+wtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
