@@ -46,14 +46,14 @@
 	- set the scale                                                                         
 		![Image](../image/RobotSim_Range_Size.png)
 		- set meter as the unit
-		- For example: the max reach of the robot is 2.23m, we need to set 4.46m as the diameter.                    
+		- For example: the max reach of the robot is 2.23m, we need to set 4.46m as its diameter. 
          
          
 	- set the color                                                                   
 		![Image](../image/RobotSim_Range_Color.png)
-		- 選擇Materials材質，拖移至Element欄位                                     
+		- Choose **Materials** and drag to **Element**                                     
 
-	- 使用相同方法建立手臂內圈極限範圍
+	- Likewise, use the same way 使用相同方法建立手臂內圈極限範圍
 		![Image](../image/RobotSim_Add_Limit_Sphere.png)
 
 
@@ -144,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIzOTQzLC00NDk0ODY5NDUsLTU1Nz
+eyJoaXN0b3J5IjpbNjEwNjE0MjYzLC00NDk0ODY5NDUsLTU1Nz
 EwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwt
 MTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
