@@ -14,7 +14,7 @@
 
 ---
 
-### RobotSim建置作業環境
+### Build o建置作業環境
 
 1. 加入機械手臂KUKA KR60-L45-3、夾爪RGN+300-1
 	- 將手臂模型匯入RobotSim                          
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzc5ODcxMCwtMTM4ODcwMTQ4LC04ND
-AxOTI1MzYsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbMjQ5MjcyODI2LC0xMzg4NzAxNDgsLTg0MD
+E5MjUzNiwxMzc4MzMxMDYzXX0=
 -->
