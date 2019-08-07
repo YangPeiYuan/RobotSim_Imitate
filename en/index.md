@@ -4,9 +4,9 @@
 
 ---
 
-### 選用設備
+### Select a robot
 
-- 機械手臂 : KUKA KR60-L45-3[手臂unitypackage](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
+- Robotic Type : KUKA KR60-L45-3[Robotunitypackage](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
 	- 限制重量 : 45kg
 	- 工作範圍 : 2230cm
 	
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNz
-gzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbLTM5NDUzODA2MiwtMTM4ODcwMTQ4LC04ND
+AxOTI1MzYsMTM3ODMzMTA2M119
 -->
