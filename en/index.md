@@ -53,7 +53,7 @@
 		![Image](../image/RobotSim_Range_Color.png)
 		- Choose **Materials** and drag to **Element**                                     
 
-	- Likewise, use the same way 使用相同方法建立手臂內圈極限範圍
+	- Likewise, build the inner limitation of the robot
 		![Image](../image/RobotSim_Add_Limit_Sphere.png)
 
 
@@ -144,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNjE0MjYzLC00NDk0ODY5NDUsLTU1Nz
-EwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwt
-MTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NT
+cxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQs
+LTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
