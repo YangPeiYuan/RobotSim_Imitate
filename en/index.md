@@ -123,7 +123,7 @@
                                                                                                    
 2. Programming the teaching points
 
-	- use Program編輯流程
+	- use [Programs] for edit
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
 		- 將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
@@ -146,7 +146,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDAzNzU0OCw5NzcyMTQyNjcsLTg4MD
+eyJoaXN0b3J5IjpbMjAzMDE5OTIwNSw5NzcyMTQyNjcsLTg4MD
 EzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYx
 MDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NS
 wtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAx
