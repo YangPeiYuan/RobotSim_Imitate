@@ -73,7 +73,7 @@
 		- the working space after drawing the boundary
 
 
-4. 建立其他專案所需物件
+4. Buid the other facilitis or objects
 
 	- 適各專案模擬所需使用其他物件  
 	- [箱子模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjgwNDk0MCwtMTkwNjI2MTAxOCwxOD
-M1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4
-Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMj
-MyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMx
-MDYzXX0=
+eyJoaXN0b3J5IjpbLTE5NTU0MTQ3NzIsLTE5MDYyNjEwMTgsMT
+gzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0
+ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LD
+IzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMz
+MTA2M119
 -->
