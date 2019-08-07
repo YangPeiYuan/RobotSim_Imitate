@@ -76,9 +76,9 @@
 4. Buid the other facilitis or objects
 
 	- Depending on the project   
-	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	長42CM 寬29CM 高15CM 
+	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	set Length: 42CM Width: 29CM Height: 15CM 
 
-	 - 擺放物件方式                                       
+	 - Put the box擺放物件方式                                       
 
 		![Image](../image/RobotSim_Position.png)
 		 - 利用位置 (Position) 參數放置物體實際位置，單位均為公尺(m)
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjcxMzAyMSwtMTkwNjI2MTAxOCwxOD
-M1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4
-Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMj
-MyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMx
-MDYzXX0=
+eyJoaXN0b3J5IjpbODA1MTA0MDQ0LC0xOTA2MjYxMDE4LDE4Mz
+UzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2
+OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMz
+IyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEw
+NjNdfQ==
 -->
