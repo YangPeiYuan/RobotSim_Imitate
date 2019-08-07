@@ -124,6 +124,7 @@
 		- Choose the motion type from the command menu and add its teaching point such as HomeToGreenSafe, and repaet the procedure for other points to program robot motion in the sequence of motion order. 
 		                                                                                     
 		![Image](../image/RobotSim_Command_Gripper.png)
+		
 		-  Add Gripper command object
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
@@ -140,11 +141,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzMwNTYyNiwtMTYxOTIwMjYzNCwxNT
-kwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2MDk1NCwtMTI1Mjcw
-MTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0NiwtMjAwMzA0NjMxMi
-wtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEw
-MzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMD
-I3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEz
-ODg3MDE0OF19
+eyJoaXN0b3J5IjpbLTE4ODY5NjQwMDgsMjEzMzMwNTYyNiwtMT
+YxOTIwMjYzNCwxNTkwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2
+MDk1NCwtMTI1MjcwMTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0Ni
+wtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4
+MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5ND
+g2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwy
+MzIyOTMwOTRdfQ==
 -->
