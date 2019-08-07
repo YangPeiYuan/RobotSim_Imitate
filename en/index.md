@@ -90,10 +90,10 @@
 		- Uncheck the object on the upper-right will delete the object from the scene, but still remaining the setting of the object. If needed, click check to use the object again  
                                                                                                                             
 		![Image](../image/RobotSim_Complete_Environment.png)
-		- After robot motion path analyzing, we 本專案經模擬後，手臂擺放位置更改成旋轉(Rotation)Y 150，此角度下手臂的工作路徑相對較順暢
+		- After robot motion path analyzing, we layout the robot working space as above
 
 --- 
-### 點位記錄及模擬實作
+### Simulation with teaching points點位記錄及模擬實作
 
 1. 紀錄手臂點位
 
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDc5MTMzOSwtMjU4OTM4MjE5LC0xOT
-A2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3
-Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLD
-Y4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTky
-NTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMzU4NjYwNjIxLC0yNTg5MzgyMTksLTE5MD
+YyNjEwMTgsMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3
+NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNj
+g1MDE1ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1
+MzYsMTM3ODMzMTA2M119
 -->
