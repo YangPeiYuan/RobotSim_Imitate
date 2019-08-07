@@ -29,7 +29,7 @@
 		![Image](../image/RobotSim_Import_RNG300.png)
 		![Image](../image/RobotSim_Set_gripper.png)
 		- Find the gripper RNG300 on the menu of SampleScene
-		- Drag the gripper RGN300 into scene and 拖移到場景上，並且把位置 (Position) 設為原點 (X 0, Y 0, Z 0)
+		- Drag the gripper RGN300 into scene and set (Position) as  (X 0, Y 0, Z 0)
 
 		![Image](../image/RobotSim_Set_Robot_Position.png)
 		- 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYyNTU5MjMsMjMyMjkzMDk0LC0xMz
-g4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbNjg1MDE1ODU4LDIzMjI5MzA5NCwtMTM4OD
+cwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
