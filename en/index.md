@@ -127,6 +127,7 @@
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
 		- Choose the motion type from the command menu and add its teaching point such as HomeToGreenSafe, and repaet the procedure for other points to program robot motion in the sequence of motion order. 
+		- 
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
@@ -146,10 +147,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU5NjA5NTQsLTEyNTI3MDEwODMsOT
-c3MjE0MjY3LC04ODAxMzEzNDYsLTIwMDMwNDYzMTIsLTI1ODkz
-ODIxOSwtMTkwNjI2MTAxOCwxODM1MzEwODE0LC0xMDMxNzgwMT
-U2LDE4OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3
-NzI4MDYxMiw2ODUwMTU4NTgsMjMyMjkzMDk0LC0xMzg4NzAxND
-gsLTg0MDE5MjUzNiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTE0Nzc1MDM3MjcsLTE4NjU5NjA5NTQsLT
+EyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEzNDYsLTIwMDMw
+NDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOCwxODM1MzEwOD
+E0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwt
+NTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMjMyMjkzMD
+k0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMxMDYzXX0=
+
 -->
