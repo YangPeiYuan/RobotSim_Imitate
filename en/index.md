@@ -28,7 +28,7 @@
 		![Image](../image/RobotSim_Import_New_Asset.png)
 		![Image](../image/RobotSim_Import_RNG300.png)
 		![Image](../image/RobotSim_Set_gripper.png)
-		- 左方SampleScene列表找到RNG300
+		- Find the gripper RNG300 on the left of SampleScene
 		- 將夾爪RGN300拖移到場景上，並且把位置 (Position) 設為原點 (X 0, Y 0, Z 0)
 
 		![Image](../image/RobotSim_Set_Robot_Position.png)
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MD
-E5MjUzNiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbMTk4NjYwNDQ0NywyMzIyOTMwOTQsLTEzOD
+g3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
