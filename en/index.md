@@ -129,7 +129,7 @@
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- drag **Tool1** to **Gripper** so the creating object will use tool1 as its tool.
-		- Check **Lock**as object GripperLock(True)
+		- Check **Lock** as object GripperLock(True)
 		- Uncheck **Lock** as object GripperLock(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
@@ -142,11 +142,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODcxMjc2LDIxMzMzMDU2MjYsLTE2MT
-kyMDI2MzQsMTU5MDYwMTQ4NCwxNjI2MTkwOTksLTE4NjU5NjA5
-NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEzNDYsLT
-IwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOCwxODM1
-MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4Nj
-k0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMjMy
-MjkzMDk0XX0=
+eyJoaXN0b3J5IjpbMjEzNDAyODQzNCwyMTMzMzA1NjI2LC0xNj
+E5MjAyNjM0LDE1OTA2MDE0ODQsMTYyNjE5MDk5LC0xODY1OTYw
+OTU0LC0xMjUyNzAxMDgzLDk3NzIxNDI2NywtODgwMTMxMzQ2LC
+0yMDAzMDQ2MzEyLC0yNTg5MzgyMTksLTE5MDYyNjEwMTgsMTgz
+NTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0OD
+Y5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIz
+MjI5MzA5NF19
 -->
