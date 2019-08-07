@@ -105,7 +105,7 @@
 
 		![Image](../image/RobotSim_Add_All_Point.png)
 	
-		-  duplicate the first picking position and change its height for o記錄完第一點後，其他點只需要使用複製方式，並更改其位置參數(物件box高為15cm，每層點位位置Y相差0.15m)
+		-  duplicate the first picking position and change the height and record as other picking points.
 
 	- 利用空物件進行分類幫助分類不同點位
                                                                                        
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzOTI3MDYsLTIwMDMwNDYzMTIsLT
-I1ODkzODIxOSwtMTkwNjI2MTAxOCwxODM1MzEwODE0LC0xMDMx
-NzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwtNTU3MTAyNz
-A3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMjMyMjkzMDk0LC0xMzg4
-NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTg4MDEzMTM0NiwtMjAwMzA0NjMxMiwtMj
+U4OTM4MjE5LC0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3
+ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MD
+csMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3
+MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
