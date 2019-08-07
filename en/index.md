@@ -10,7 +10,7 @@
 	- Payload : 45kg
 	- Max. reach: 2230cm
 	
-- 夾爪 : RGN+300-1[夾爪模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
+- Gripper : RGN+300-1[Gripper Model](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
 
 ---
 
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM0NzM4NjMsLTEzODg3MDE0OCwtOD
-QwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMTQzMzc5ODcxMCwtMTM4ODcwMTQ4LC04ND
+AxOTI1MzYsMTM3ODMzMTA2M119
 -->
