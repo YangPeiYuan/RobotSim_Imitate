@@ -122,7 +122,7 @@
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
 		- Choose the motion type from the command menu and add its teaching point such as HomeToGreenSafe, and repaet the procedure for other points to program robot motion in the sequence of motion order. 
-		-                                                                                     
+		                                                                                     
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  Add Gripper command object
 
@@ -140,7 +140,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTkxNTc0MSwtMTYxOTIwMjYzNCwxNT
+eyJoaXN0b3J5IjpbMjEzMzMwNTYyNiwtMTYxOTIwMjYzNCwxNT
 kwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2MDk1NCwtMTI1Mjcw
 MTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0NiwtMjAwMzA0NjMxMi
 wtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEw
