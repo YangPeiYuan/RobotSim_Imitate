@@ -17,11 +17,11 @@
 ### Build working objects
 
 1. Import KUKA KR60-L45-3、Gripper RGN+300-1
-	- Import RobotSim                          
+	- Import RobotSim custom package                         
                     
 		 ![Image](../image/RobotSim_Import_Model.png)
 		 
-	- 加入機械手臂                                                                                   
+	- Import the selected Robot                                                                              
 		![Image](../image/RobotSim_Import_Robot.png)
 
 	- 加入夾爪模型                                                                                    
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjYwNDcwMCwtMTM4ODcwMTQ4LC04ND
-AxOTI1MzYsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbLTExMDgwNjY1NDMsLTEzODg3MDE0OCwtOD
+QwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
