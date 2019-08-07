@@ -60,7 +60,7 @@
 3. Build the working space
 
 	- Drawing the wall or user's defined station boundary
-	- 可用來觀察手臂運動中有無超越或撞機風險        
+	- Move the robot to analyze the p rist of interferences    
     
 		![Image](../image/RobotSim_Add_Line.png)
 	
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE4NjM1MywtMTkwNjI2MTAxOCwxOD
-M1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4
-Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMj
-MyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMx
-MDYzXX0=
+eyJoaXN0b3J5IjpbNDEyMTQ4MjIzLC0xOTA2MjYxMDE4LDE4Mz
+UzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2
+OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMz
+IyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEw
+NjNdfQ==
 -->
