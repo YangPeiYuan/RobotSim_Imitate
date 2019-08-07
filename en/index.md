@@ -126,7 +126,7 @@
 	- use [Programs] for edit
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
-		- Choose the motion type from the command menu and add its teaching point, and repaet the procedure to program robot motion in the sequence of motion order. 
+		- Choose the motion type from the command menu and add its teaching point such as HomeToGreenSafe, and repaet the procedure to program robot motion in the sequence of motion order. 
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
@@ -146,7 +146,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc1NDMyNSwtMTI1MjcwMTA4Myw5Nz
+eyJoaXN0b3J5IjpbLTEyMDgxNTc2NiwtMTI1MjcwMTA4Myw5Nz
 cyMTQyNjcsLTg4MDEzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4
 MjE5LC0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNT
 YsMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3
