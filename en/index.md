@@ -126,7 +126,7 @@
 	- use [Programs] for edit
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
-		- Arrange the sequence of Add the motion type to each teaching point將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
+		- Arrange the sequence of the teaching points according to their motion or, and add the motion type to each teaching point將點位分別移至所需移動方式，執行時即可讓手臂順利移置點位
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
@@ -146,10 +146,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDcwNzE1OSw5NzcyMTQyNjcsLTg4MD
-EzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYx
-MDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NS
-wtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAx
-NTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LD
-EzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbNjUxODU2MSw5NzcyMTQyNjcsLTg4MDEzMT
+M0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4
+LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtND
+Q5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1
+OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNz
+gzMzEwNjNdfQ==
 -->
