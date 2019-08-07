@@ -34,7 +34,7 @@
 		- Rotate Robot w.r.t Y-axis(in Unity) at the center of the robot base with 180 degree such that the robot flange will face the gripper exactly.
 
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
-		- Drag obiect RNG300 into Tool1 and set the Flange position at (0, -0.35, 0) such that the center of the flange will match to the center of the gripper RGN300 perfectly.
+		- Drag obiect RNG300 into Tool1 and set the flange position at (0, -0.35, 0) such that the center of the flange will match to the center of the gripper RGN300 perfectly.
 
 2. Drawing the working envelope of the robot 
 	-To move the robot to observe the reach limitations          
@@ -142,11 +142,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjQxNzQwMywyMTM0MDI4NDM0LDIxMz
-MzMDU2MjYsLTE2MTkyMDI2MzQsMTU5MDYwMTQ4NCwxNjI2MTkw
-OTksLTE4NjU5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC
-04ODAxMzEzNDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkw
-NjI2MTAxOCwxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nz
-c3NTUsLTQ0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2
-ODUwMTU4NThdfQ==
+eyJoaXN0b3J5IjpbMzcyODg2MzYzLDIwNTI0MTc0MDMsMjEzND
+AyODQzNCwyMTMzMzA1NjI2LC0xNjE5MjAyNjM0LDE1OTA2MDE0
+ODQsMTYyNjE5MDk5LC0xODY1OTYwOTU0LC0xMjUyNzAxMDgzLD
+k3NzIxNDI2NywtODgwMTMxMzQ2LC0yMDAzMDQ2MzEyLC0yNTg5
+MzgyMTksLTE5MDYyNjEwMTgsMTgzNTMxMDgxNCwtMTAzMTc4MD
+E1NiwxODkyNDc3NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywy
+NzcyODA2MTJdfQ==
 -->
