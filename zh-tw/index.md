@@ -35,7 +35,7 @@
 		- 將手臂對手臂底座的Y軸（Unity)旋轉180度，讓法蘭面對準夾爪
 
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
-		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange位置Y設為 -0.35m，這樣即能將手臂Tool改至夾爪前端中心
+		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange位置Y設為 -0.35m，這樣即能讓手臂法蘭中心和夾爪前端中心重疊
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -144,6 +144,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjg2MDY5MCwtNTQwNjUzMDY4LDE3Mz
-EwODU4ODIsODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbNjAyMTI0NDUxLC04NTI4NjA2OTAsLTU0MD
+Y1MzA2OCwxNzMxMDg1ODgyLDg2Mjg0OTIxMiwxMzc4MzMxMDYz
+XX0=
 -->
