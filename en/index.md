@@ -72,7 +72,6 @@
 
 
 4. Buid the other facilitis or objects
-
 	- Depending on the project   
 	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	set Length: 42CM Width: 29CM Height: 15CM 
 
@@ -109,13 +108,11 @@
                                                                                        
 		![Image](../image/RobotSim_Create_Empty.png)
 		- Create an empty GameObject
-		- 
-		                                                                               
+		-                                                                     
 		![Image](../image/RobotSim_Create_Blue_Box.png)
 		- Rename object as BlueBox
 		- drag points P1～P1(4) to the empty object
-                                                                                        
-                                                                                             
+                                                                                                                                                           
 		![Image](../image/RobotSim_All_Blue_Box.png)
 		- duplicate BlueBox and update  P1～ P1(4) inside for other stacks
                                                                                                    
@@ -125,8 +122,7 @@
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
 		- Choose the motion type from the command menu and add its teaching point such as HomeToGreenSafe, and repaet the procedure for other points to program robot motion in the sequence of motion order. 
-		- 
-                                                                                                          
+		-                                                                                     
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  Add Gripper command object
 
@@ -139,17 +135,16 @@
 		- set GriperLock(False) under the placing point for releasing box
 
  --- 
-
 ### Completed  simulation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjgyOTA4NCwxNTkwNjAxNDg0LDE2Mj
-YxOTA5OSwtMTg2NTk2MDk1NCwtMTI1MjcwMTA4Myw5NzcyMTQy
-NjcsLTg4MDEzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC
-0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5
-MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNj
-EyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQw
-MTkyNTM2XX0=
+eyJoaXN0b3J5IjpbLTE2MTkyMDI2MzQsMTU5MDYwMTQ4NCwxNj
+I2MTkwOTksLTE4NjU5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0
+MjY3LC04ODAxMzEzNDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOS
+wtMTkwNjI2MTAxOCwxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4
+OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MD
+YxMiw2ODUwMTU4NTgsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0
+MDE5MjUzNl19
 -->
