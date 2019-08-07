@@ -35,7 +35,7 @@
 		- Rotate Robot w.r.t Y-axis(in Unity) at the center of the robot base with 180 degree such that the robot flange will face the gripper exactly.
 
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
-		- Drag obiect RNG300 into Tool1 and set the Flange position at (0, -0.35, 0) such that the flange center will match to the gripper RGN300 perfectly.
+		- Drag obiect RNG300 into Tool1 and set the Flange position at (0, -0.35, 0) such that the center of the flange will match to the center of the gripper RGN300 perfectly.
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -145,7 +145,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNzE3MDYzLC01NTcxMDI3MDcsMjc3Mj
+eyJoaXN0b3J5IjpbNjczMzAxODY2LC01NTcxMDI3MDcsMjc3Mj
 gwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwt
 ODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
