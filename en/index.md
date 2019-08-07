@@ -104,7 +104,7 @@
 	
 		-  duplicate the first picking position and change the height and record as other picking points.
 
-	- Using game object to create 
+	- Using game object to create new object
                                                                                        
 		![Image](../image/RobotSim_Create_Empty.png)
 		- Create an empty GameObject
@@ -142,7 +142,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTc0OTEyNCwyMTM0MDI4NDM0LDIxMz
+eyJoaXN0b3J5IjpbMjA1MjQxNzQwMywyMTM0MDI4NDM0LDIxMz
 MzMDU2MjYsLTE2MTkyMDI2MzQsMTU5MDYwMTQ4NCwxNjI2MTkw
 OTksLTE4NjU5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC
 04ODAxMzEzNDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkw
