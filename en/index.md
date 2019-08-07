@@ -6,9 +6,9 @@
 
 ### Select a robot
 
-- Robotic Type : KUKA KR60-L45-3[Robotunitypackage](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
-	- 限制重量 : 45kg
-	- 工作範圍 : 2230cm
+- Robotic Type : KUKA KR60-L45-3 [Robotunitypackage](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/KR60_L45.unitypackage)
+	- Payload : 45kg
+	- Max. reach: 2230cm
 	
 - 夾爪 : RGN+300-1[夾爪模型](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
 
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDUzODA2MiwtMTM4ODcwMTQ4LC04ND
-AxOTI1MzYsMTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbLTE4OTM0NzM4NjMsLTEzODg3MDE0OCwtOD
+QwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
 -->
