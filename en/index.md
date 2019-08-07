@@ -111,10 +111,12 @@
                                                                                        
 		![Image](../image/RobotSim_Create_Empty.png)
 		- Create an empty GameObject
+		- 
 		                                                                               
 		![Image](../image/RobotSim_Create_Blue_Box.png)
 		- 將物件名稱更改為所分類名稱BlueBox
 		- 將點位P1至P1(4)拖移至空物件裡面
+                                                                                        
                                                                                              
 		![Image](../image/RobotSim_All_Blue_Box.png)
 		- 另外6疊只需複製現有BlueBox，選取裡面P1至P1(4)點位直接移動位置
@@ -144,7 +146,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTY0NTU3Myw5NzcyMTQyNjcsLTg4MD
+eyJoaXN0b3J5IjpbLTQ3NDgwNjM3Niw5NzcyMTQyNjcsLTg4MD
 EzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYx
 MDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NS
 wtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAx
