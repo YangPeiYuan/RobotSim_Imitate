@@ -135,7 +135,7 @@
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
-		- 將GripperLock(True)移動至預夾取物件點位下方即可夾取
+		- 將GripperLock(True)設定在到達夾取物件點位後面動作
 		- 將GriperLock(False)移動至預放置物件點位下方即可放置
 
  --- 
@@ -144,7 +144,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYyMjUyNjQsODIzNjQ4MjU4LC04NT
-I4NjA2OTAsLTU0MDY1MzA2OCwxNzMxMDg1ODgyLDg2Mjg0OTIx
-MiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbMTY2MzM3Njk1MSw4MjM2NDgyNTgsLTg1Mj
+g2MDY5MCwtNTQwNjUzMDY4LDE3MzEwODU4ODIsODYyODQ5MjEy
+LDEzNzgzMzEwNjNdfQ==
 -->
