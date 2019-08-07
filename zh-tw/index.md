@@ -132,7 +132,7 @@
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- 將手臂**Tool1**拖移至Gripper，建立一個使用**Tool1**為工具的物件
-		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
+		- 下方Lock勾選為夾取物件(True)：GripperLock(True)、反之取消勾選為放下物件(False)：GriperLock(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
 		- 將GripperLock(True)設定在到達夾取物件點位後動作
@@ -144,7 +144,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE5ODMwODYsODIzNjQ4MjU4LC04NT
-I4NjA2OTAsLTU0MDY1MzA2OCwxNzMxMDg1ODgyLDg2Mjg0OTIx
-MiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbNTg0ODgwMTUxLDgyMzY0ODI1OCwtODUyOD
+YwNjkwLC01NDA2NTMwNjgsMTczMTA4NTg4Miw4NjI4NDkyMTIs
+MTM3ODMzMTA2M119
 -->
