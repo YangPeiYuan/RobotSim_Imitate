@@ -10,15 +10,14 @@
 	- Payload : 45kg
 	- Max. reach: 2230cm
 	
-- Gripper : RGN+300-1[Gripper Model](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
+- Gripper : RGN+300-1 [Gripper Model](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/RGN300.FBX)
 
 ---
 
 ### Build working objects
 
 1. Import KUKA KR60-L45-3、Gripper RGN+300-1
-	- Import RobotSim custom package                         
-                    
+	- Import RobotSim custom package                              
 		 ![Image](../image/RobotSim_Import_Model.png)
 		 
 	- Add a Robot                                                                              
@@ -39,7 +38,7 @@
 
 2. Drawing the working envelope of the robot 
 	-To move the robot to observe the reach limitations          
-
+	
 	- Build a 3D spherical object                                                                      
 		![Image](../image/RobotSim_Add_Range_Sphere.png)
 		
@@ -58,7 +57,6 @@
 
 
 3. Build the working space
-
 	- Drawing the wall or user's defined station boundary
 	- Move the robot to analyze the potential risk of interferences    
     
@@ -147,11 +145,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDYwMTQ4NCwxNjI2MTkwOTksLTE4Nj
-U5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEz
-NDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOC
-wxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0
-OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NT
-gsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4
-MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTQ0NjgyOTA4NCwxNTkwNjAxNDg0LDE2Mj
+YxOTA5OSwtMTg2NTk2MDk1NCwtMTI1MjcwMTA4Myw5NzcyMTQy
+NjcsLTg4MDEzMTM0NiwtMjAwMzA0NjMxMiwtMjU4OTM4MjE5LC
+0xOTA2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5
+MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNj
+EyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQw
+MTkyNTM2XX0=
 -->
