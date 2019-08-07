@@ -72,8 +72,8 @@
 
 
 4. Buid the other facilitis or objects
-	- Depending on the project   
-	- [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	set Length: 42CM Width: 29CM Height: 15CM 
+	-Depending on the project   
+	 [Box](https://github.com/YangPeiYuan/RobotSim_Simulate/raw/master/object/box.FBX)	set Length: 42CM Width: 29CM Height: 15CM 
 
 	 - Put the box on the desired location                                  
 
@@ -142,7 +142,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODg2MzYzLDIwNTI0MTc0MDMsMjEzND
+eyJoaXN0b3J5IjpbMjgxOTU4MTcyLDIwNTI0MTc0MDMsMjEzND
 AyODQzNCwyMTMzMzA1NjI2LC0xNjE5MjAyNjM0LDE1OTA2MDE0
 ODQsMTYyNjE5MDk5LC0xODY1OTYwOTU0LC0xMjUyNzAxMDgzLD
 k3NzIxNDI2NywtODgwMTMxMzQ2LC0yMDAzMDQ2MzEyLC0yNTg5
