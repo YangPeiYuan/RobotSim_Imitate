@@ -101,7 +101,7 @@
 
 		![Image](../image/RobotSim_Add_Point.png)
 		- move robot to the picking position
-		- use [+Point] to record the pick功能紀錄點位
+		- use [+Point] to record the picking point
 
 		![Image](../image/RobotSim_Add_All_Point.png)
 	
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTczOTkwMywtMjU4OTM4MjE5LC0xOT
-A2MjYxMDE4LDE4MzUzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3
-Nzc1NSwtNDQ5NDg2OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLD
-Y4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwtODQwMTky
-NTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMT
+kwNjI2MTAxOCwxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0
+Nzc3NTUsLTQ0OTQ4Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMi
+w2ODUwMTU4NTgsMjMyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5
+MjUzNiwxMzc4MzMxMDYzXX0=
 -->
