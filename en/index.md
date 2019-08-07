@@ -137,8 +137,8 @@
 		- 下方Lock勾選為夾取物件(True)、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
-		- GripperLock(True) for gripping box
-		- GriperLock(False) for releasing box
+		- set GripperLock(True) under the picking point for gripping box
+		- set GriperLock(False) under the placing pointfor releasing box
 
  --- 
 
@@ -147,7 +147,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODUzMTMzNSwxNjI2MTkwOTksLTE4Nj
+eyJoaXN0b3J5IjpbMTUwOTQ5Mzk2NiwxNjI2MTkwOTksLTE4Nj
 U5NjA5NTQsLTEyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEz
 NDYsLTIwMDMwNDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOC
 wxODM1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0
