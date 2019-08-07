@@ -40,12 +40,12 @@
 2. Layout the working space for robot 
 	-To move the robot to observe the reach limitations          
 
-	- Build a 3D sp建立球形3D物件                                                                            
+	- Build a 3D spherical object                                                                      
 		![Image](../image/RobotSim_Add_Range_Sphere.png)
 		
-	- 設定物件大小規模 (Scale)                                                                                 
+	- set the scale                                                                         
 		![Image](../image/RobotSim_Range_Size.png)
-		- 設定範圍單位為 公尺(m)
+		- set meter as unit設定範圍單位為 公尺(m)
 		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m                         
          
          
@@ -144,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjk4NDI4NSwtNDQ5NDg2OTQ1LC01NT
-cxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQs
-LTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbMTk5MDY0MTE1LC00NDk0ODY5NDUsLTU1Nz
+EwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwt
+MTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
