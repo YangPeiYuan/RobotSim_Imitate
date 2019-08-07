@@ -125,7 +125,7 @@
 	- 使用Program編輯流程
                                                                                                                    
 		![Image](../image/RobotSim_New_Motion.png)
-		- 將點位做好順序安排及加入運動型態（motion tyoe)，執行時即可讓手臂順利移置點位
+		- 選取動作型態（motion tyoe)，將點位置入，並做好作動順序安排，執行時即可讓手臂順利移置點位
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
@@ -144,7 +144,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNjQ4MjU4LC04NTI4NjA2OTAsLTU0MD
-Y1MzA2OCwxNzMxMDg1ODgyLDg2Mjg0OTIxMiwxMzc4MzMxMDYz
-XX0=
+eyJoaXN0b3J5IjpbLTIwOTYyMjUyNjQsODIzNjQ4MjU4LC04NT
+I4NjA2OTAsLTU0MDY1MzA2OCwxNzMxMDg1ODgyLDg2Mjg0OTIx
+MiwxMzc4MzMxMDYzXX0=
 -->
