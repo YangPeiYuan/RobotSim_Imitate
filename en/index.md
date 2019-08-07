@@ -32,7 +32,7 @@
 		- Drag the gripper RGN300 into the scene and set (Position) as  (X 0, Y 0, Z 0)
 
 		![Image](../image/RobotSim_Set_Robot_Position.png)
-		- 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
+		- Rotate 將手臂旋轉 (Rotation) Y轉向180度，法蘭面對準夾爪
 
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
 		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange、RGN300位置Y各-0.35m，這樣即能將手臂Tool改至夾爪前端中心
@@ -145,7 +145,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgxODk4MjEsNjg1MDE1ODU4LDIzMj
-I5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2
-M119
+eyJoaXN0b3J5IjpbMTI2NDY5NzY3Miw2ODUwMTU4NTgsMjMyMj
+kzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMxMDYz
+XX0=
 -->
