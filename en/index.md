@@ -93,7 +93,7 @@
 		- After robot motion path analyzing, we layout the robot working space as above
 
 --- 
-### Simulation with teaching points點位記錄及模擬實作
+### Simulation with teaching points
 
 1. 紀錄手臂點位
 
@@ -144,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NjYwNjIxLC0yNTg5MzgyMTksLTE5MD
+eyJoaXN0b3J5IjpbMzEwMzU3NjM1LC0yNTg5MzgyMTksLTE5MD
 YyNjEwMTgsMTgzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3
 NzU1LC00NDk0ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNj
 g1MDE1ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1
