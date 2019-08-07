@@ -66,8 +66,8 @@
 	
 		![Image](../image/RobotSim_Set_Line.png)
 		- rename **Cube** as **Line** and set its length, height and positions ...
-		- duplicate the **Line**above as the second one第二條線只需要複製並調整位置即可
-		- 位置參數為物件的中心，如要調整參數須注意
+		- duplicate the **Line**above as the second one, and adjust its parameters
+		- Note: the 位置參數為物件的中心，如要調整參數須注意
                                                                                                                      
 		![Image](../image/RobotSim_Set_Limit_Environment.png)
 		- 設定完成後場景
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njg5NTEzMCwtMTkwNjI2MTAxOCwxOD
-M1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4
-Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMj
-MyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMx
-MDYzXX0=
+eyJoaXN0b3J5IjpbLTEzMTQyNjAzNDMsLTE5MDYyNjEwMTgsMT
+gzNTMxMDgxNCwtMTAzMTc4MDE1NiwxODkyNDc3NzU1LC00NDk0
+ODY5NDUsLTU1NzEwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LD
+IzMjI5MzA5NCwtMTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMz
+MTA2M119
 -->
