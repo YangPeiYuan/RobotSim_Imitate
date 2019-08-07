@@ -37,8 +37,7 @@
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
 		- Drag obiect RNG300 into Tool1 and set the Flange position at (0, -0.35, 0) such that the center of the flange will match to the center of the gripper RGN300 perfectly.
 
-2. Layout  建立手臂作業空間以及極限範圍示意模型
-
+2. Layout the working space for robot 
 	- 移動手臂時較方便目測極限距離                                                                    
 
 	- 建立球形3D物件                                                                            
@@ -145,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MDU3MzMyLC01NTcxMDI3MDcsMjc3Mj
-gwNjEyLDY4NTAxNTg1OCwyMzIyOTMwOTQsLTEzODg3MDE0OCwt
-ODQwMTkyNTM2LDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTE0NTA5NzcsLTU1NzEwMjcwNywyNz
+cyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwtMTM4ODcwMTQ4
+LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
