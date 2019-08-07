@@ -45,8 +45,8 @@
 		
 	- set the scale                                                                         
 		![Image](../image/RobotSim_Range_Size.png)
-		- set meter as unit設定範圍單位為 公尺(m)
-		- 例 : 手臂作業範圍2.23m，須設定圓直徑為4.46m                         
+		- set meter as the unit
+		- For example: the max reach of the robot is 2.23m, we need to set 4.46m for it                        
          
          
 	- 設定物件顏色                                                                                   
@@ -144,7 +144,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDY0MTE1LC00NDk0ODY5NDUsLTU1Nz
+eyJoaXN0b3J5IjpbMzMyODAwOTk0LC00NDk0ODY5NDUsLTU1Nz
 EwMjcwNywyNzcyODA2MTIsNjg1MDE1ODU4LDIzMjI5MzA5NCwt
 MTM4ODcwMTQ4LC04NDAxOTI1MzYsMTM3ODMzMTA2M119
 -->
