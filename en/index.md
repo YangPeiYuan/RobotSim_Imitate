@@ -14,9 +14,9 @@
 
 ---
 
-### Build o建置作業環境
+### Build working objects
 
-1. 加入機械手臂KUKA KR60-L45-3、夾爪RGN+300-1
+1. import KUKA KR60-L45-3、Gripper RGN+300-1
 	- 將手臂模型匯入RobotSim                          
                     
 		 ![Image](../image/RobotSim_Import_Model.png)
@@ -145,6 +145,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MjcyODI2LC0xMzg4NzAxNDgsLTg0MD
+eyJoaXN0b3J5IjpbNzc5OTYyODg3LC0xMzg4NzAxNDgsLTg0MD
 E5MjUzNiwxMzc4MzMxMDYzXX0=
 -->
