@@ -84,7 +84,7 @@
 		 - using the **Position** parameter to choose the right place for the box, unit: meter
                                                                                                                           
 		![Image](../image/RobotSim_Position_Stacking.png)
-		- duplicate the box and change **Position** for more other boxes on differen如需要堆疊多個箱子，只需要先設定好第一個箱子位置，其餘則使用複製並更改其位置參數Y，向上移動盒子高度15CM
+		- duplicate the box and change **Position** for more other boxes on different places. Note: the height of the box is 15cm
                                                                                                                       
 		![Image](../image/RobotSim_Blue_Box_Disappear.png)
 		- 選擇物件，右上角取消勾選即能將物件取消不使用，但還是能保有物件設定，需要使用時再勾選即可
@@ -144,9 +144,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODcxNDQ1LC0xOTA2MjYxMDE4LDE4Mz
-UzMTA4MTQsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2
-OTQ1LC01NTcxMDI3MDcsMjc3MjgwNjEyLDY4NTAxNTg1OCwyMz
-IyOTMwOTQsLTEzODg3MDE0OCwtODQwMTkyNTM2LDEzNzgzMzEw
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTAwMDA3NzE2NiwtMTkwNjI2MTAxOCwxOD
+M1MzEwODE0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4
+Njk0NSwtNTU3MTAyNzA3LDI3NzI4MDYxMiw2ODUwMTU4NTgsMj
+MyMjkzMDk0LC0xMzg4NzAxNDgsLTg0MDE5MjUzNiwxMzc4MzMx
+MDYzXX0=
 -->
