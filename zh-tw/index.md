@@ -1,6 +1,6 @@
 ## RobotSim 使用教點式模擬
 
-- 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html)
+- 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/)
 
 ---
 
@@ -35,7 +35,7 @@
 		- 將手臂對手臂底座的Y軸（Unity)旋轉180度，讓法蘭面對準夾爪
 
 		![Image](../image/RobotSim_Set_Robot_Tool.png)
-		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange位置Y設為 -0.35m，這樣即能讓手臂法蘭中心和夾爪前端中心重疊
+		- 將左方列表RNG300物件拉至Tool1裡，並且將Flange位置Y設為 -0.35m，這樣即能讓手臂至夾爪前端中心重疊
 
 2. 建立手臂作業空間以及極限範圍示意模型
 
@@ -132,11 +132,11 @@
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- 將手臂**Tool1**拖移至Gripper，建立一個使用**Tool1**為工具的物件
-		- 下方Lock勾選為夾取物件(True)：GripperLock(True)、反之取消勾選為放下物件(False)：GriperLock(False)
+		- 下方Lock勾選為夾取物件(True)：GripperLock(True)(False)：GriperLock、反之取消勾選為放下物件(False)
 	                                                                                                                             
 		![Image](../image/RobotSim_Gripper_Lock_Box.png)
-		- 將GripperLock(True)設定在到達夾取物件點位後動作
-		- 將GriperLock(False)設定到達預放置物件點位後動作
+		- 將GripperLock(True)設定在到達夾取物件點位
+		- 將GriperLock(False)設定到達預放置物件點位
 
  --- 
 
@@ -144,7 +144,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0ODgwMTUxLDgyMzY0ODI1OCwtODUyOD
-YwNjkwLC01NDA2NTMwNjgsMTczMTA4NTg4Miw4NjI4NDkyMTIs
-MTM3ODMzMTA2M119
+eyJoaXN0b3J5IjpbMTU4MDQyMTYwLDU4NDg4MDE1MSw4MjM2ND
+gyNTgsLTg1Mjg2MDY5MCwtNTQwNjUzMDY4LDE3MzEwODU4ODIs
+ODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
 -->
