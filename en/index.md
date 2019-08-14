@@ -125,7 +125,8 @@
 		![Image](../image/RobotSim_Command_Gripper.png)
 		
 		-  Add Gripper command object
-		- 詳細步驟請參考[RobotSim專案製作](https://yazelin.github.io/usc2019-RobotSim/zh-tw//2RobotSimProject.html)
+		- Step - by - step procedures[RobotSim   
+Project production](https://yazelin.github.io/usc2019-RobotSim/zh-tw//2RobotSimProject.html)
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- drag **Tool1** to **Gripper** so the creating object will use tool1 as its tool.
@@ -142,11 +143,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MjMyMjI3LDI3MTk1NjUxOSwyMDUyND
-E3NDAzLDIxMzQwMjg0MzQsMjEzMzMwNTYyNiwtMTYxOTIwMjYz
-NCwxNTkwNjAxNDg0LDE2MjYxOTA5OSwtMTg2NTk2MDk1NCwtMT
-I1MjcwMTA4Myw5NzcyMTQyNjcsLTg4MDEzMTM0NiwtMjAwMzA0
-NjMxMiwtMjU4OTM4MjE5LC0xOTA2MjYxMDE4LDE4MzUzMTA4MT
-QsLTEwMzE3ODAxNTYsMTg5MjQ3Nzc1NSwtNDQ5NDg2OTQ1LC01
-NTcxMDI3MDddfQ==
+eyJoaXN0b3J5IjpbLTI0MjYxNzgzMSwyNzE5NTY1MTksMjA1Mj
+QxNzQwMywyMTM0MDI4NDM0LDIxMzMzMDU2MjYsLTE2MTkyMDI2
+MzQsMTU5MDYwMTQ4NCwxNjI2MTkwOTksLTE4NjU5NjA5NTQsLT
+EyNTI3MDEwODMsOTc3MjE0MjY3LC04ODAxMzEzNDYsLTIwMDMw
+NDYzMTIsLTI1ODkzODIxOSwtMTkwNjI2MTAxOCwxODM1MzEwOD
+E0LC0xMDMxNzgwMTU2LDE4OTI0Nzc3NTUsLTQ0OTQ4Njk0NSwt
+NTU3MTAyNzA3XX0=
 -->
