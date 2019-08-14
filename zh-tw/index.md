@@ -129,6 +129,7 @@
                                                                                                           
 		![Image](../image/RobotSim_Command_Gripper.png)
 		-  使須夾取物件能夠被夾爪所夾取
+		- 詳細步驟請參考
 
 		![Image](../image/RobotSim_Gripper_Lock.png)
 		- 將手臂**Tool1**拖移至Gripper，建立一個使用**Tool1**為工具的物件
@@ -144,7 +145,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDQyMTYwLDU4NDg4MDE1MSw4MjM2ND
-gyNTgsLTg1Mjg2MDY5MCwtNTQwNjUzMDY4LDE3MzEwODU4ODIs
-ODYyODQ5MjEyLDEzNzgzMzEwNjNdfQ==
+eyJoaXN0b3J5IjpbLTE2NjE0NDg5ODUsNTg0ODgwMTUxLDgyMz
+Y0ODI1OCwtODUyODYwNjkwLC01NDA2NTMwNjgsMTczMTA4NTg4
+Miw4NjI4NDkyMTIsMTM3ODMzMTA2M119
 -->
