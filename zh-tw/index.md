@@ -1,6 +1,6 @@
 ## RobotSim 使用教點式模擬
 
-- 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/)
+- 如操作過程有問題，可參考 [RobotSim基礎](https://yazelin.github.io/usc2019-RobotSim/zh-tw/1RobotSimBasic.html))
 
 ---
 
@@ -145,7 +145,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8mlEnRETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjI2ODkxNiw1ODQ4ODAxNTEsODIzNj
-Q4MjU4LC04NTI4NjA2OTAsLTU0MDY1MzA2OCwxNzMxMDg1ODgy
-LDg2Mjg0OTIxMiwxMzc4MzMxMDYzXX0=
+eyJoaXN0b3J5IjpbLTE3MjgxMzU5OTksMTE2NjI2ODkxNiw1OD
+Q4ODAxNTEsODIzNjQ4MjU4LC04NTI4NjA2OTAsLTU0MDY1MzA2
+OCwxNzMxMDg1ODgyLDg2Mjg0OTIxMiwxMzc4MzMxMDYzXX0=
 -->
